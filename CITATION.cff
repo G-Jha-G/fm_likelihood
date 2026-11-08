@@ -11,3 +11,7 @@ authors:
     affiliation: "Indian Institute of Technology Mandi"
     email: "vivekgupta@iitmandi.ac.in"
 license: MIT
+version: "0.1.0"
+date-released: "2026-11-08"
+doi: "10.5281/zenodo.24058103"
+repository-code: "https://github.com/G-Jha-G/fm_likelihood"

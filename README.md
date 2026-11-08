@@ -7,6 +7,9 @@ the experiments, analysis scripts and figure code behind the paper
 > precipitation downscaling: numerical pitfalls and what the density measures.
 > Manuscript in preparation.
 
+Archived release v0.1.0: https://doi.org/10.5281/zenodo.24058103
+Trained checkpoint: https://doi.org/10.5281/zenodo.24058789
+
 The package evaluates the exact conditional log-density log p(x | c) of a
 trained flow-matching model by integrating the probability-flow ODE with the
 instantaneous change-of-variables formula, and reports it as bits per
@@ -47,7 +50,7 @@ evaluated on, so the experiments need three external things.
 | Item | What it is | Where it comes from |
 |---|---|---|
 | MSWX precipitation | Daily 0.1 degree precipitation, India crop (350 x 350 pixels, 5.05 to 39.95 N, 65.05 to 99.95 E) | Public, GloH2O: https://www.gloh2o.org/mswx/ (Beck et al. 2022). The scripts read the 2011 to 2014 test period (1461 days) from an HDF5 file with dataset key `precipitation`. |
-| Trained checkpoint | The flow-matching U-Net of Jha et al. (2026) | A separate file in the Zenodo record, `best_fm_v1.pt` (1.1 GB), with its checksum in `best_fm_v1.pt.md5` |
+| Trained checkpoint | The flow-matching U-Net of Jha et al. (2026) | Archived separately at https://doi.org/10.5281/zenodo.24058789: `best_fm_v1.pt` (1.1 GB), with its checksum in `best_fm_v1.pt.md5` |
 | `train_precip_fm_v1.py` | Model and normalizer definitions (`Config`, `PrecipNormalizer`, `PrecipUNet`, `compute_lr_fullfield`) | The parent model code of Jha et al. (2026), included in this archive with the authors' server paths replaced by `<DATA_ROOT>`. The experiment scripts import it from the project root. |
 
 The scripts find the data through the `MSWX_TEST_H5` environment variable
@@ -187,8 +190,9 @@ Some docstrings refer to an internal project brief ("brief Section 12", and
 similar) that holds the original experiment specifications; it is not
 distributed, and each script's own docstring states what it does.
 
-The checkpoint `best_fm_v1.pt` (1.1 GB) is a separate file in the Zenodo
-record, with its checksum in `best_fm_v1.pt.md5`. Large files that are not part
+The checkpoint `best_fm_v1.pt` (1.1 GB) is archived separately at
+https://doi.org/10.5281/zenodo.24058789, with its checksum in `best_fm_v1.pt.md5`
+(MD5 638cd434780492258fe853e7c3b947cf). Large files that are not part
 of this study (the DDPM checkpoint, the NetCDF prediction files, training logs)
 are not included.
 
@@ -318,9 +322,7 @@ distributed under their own terms; check those before redistributing them.
 ## 8. Acknowledgments
 
 We thank the creators of the MSWX dataset, and the School of Civil and
-Environmental Engineering, IIT Mandi, for computing facilities. This work was
-supported by the Indian Space Research Organisation (ISRO) through the
-RESPOND program.
+Environmental Engineering, IIT Mandi, for computing facilities.
 
 ## 9. Contact
 
