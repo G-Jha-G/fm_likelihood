@@ -1,0 +1,18 @@
+# Lower bounds only. These are the minimum versions the code is written
+# against, not the versions used for the paper. Capture the exact versions
+# of the environment that produced the results with:
+#     pip freeze > requirements-lock.txt
+# and archive that file alongside this one.
+
+torch >= 2.0
+torchdiffeq >= 0.2.3     # the adaptive dopri5 solver; without it the code
+                         # silently falls back to fixed-step RK4 (with a warning)
+numpy >= 1.22
+scipy >= 1.8
+pandas >= 1.4
+h5py >= 3.6
+matplotlib >= 3.5
+
+# Tests only (tests/test_data.py builds a synthetic MSWX-like grid)
+pytest >= 7.0
+xarray >= 2022.3

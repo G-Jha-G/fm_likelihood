@@ -1,0 +1,60 @@
+{
+  "n_fields": 147,
+  "n_replicates": 4,
+  "between_field_sd": 0.6232061288992667,
+  "within_field_sd_numerical_noise": 0.003004143872955628,
+  "total_sd_pooled": 0.6216170227230925,
+  "pairwise": {
+    "lve_bpd_minus_typ_real": {
+      "mean_diff": -0.00017805277551332247,
+      "sd_diff": 0.0040202732076715176,
+      "mean_abs_diff": 0.0032220673497308935,
+      "max_abs_diff": 0.01217118387396221
+    },
+    "lve_bpd_minus_rvr_bpd": {
+      "mean_diff": -1.4404879349080686e-05,
+      "sd_diff": 0.004194836412683898,
+      "mean_abs_diff": 0.003386336244092703,
+      "max_abs_diff": 0.011703954893970137
+    },
+    "lve_bpd_minus_cmm_matched": {
+      "mean_diff": 3.0108946777345833e-06,
+      "sd_diff": 0.004175386259453825,
+      "mean_abs_diff": 0.0033648413591018025,
+      "max_abs_diff": 0.013476528853575864
+    },
+    "typ_real_minus_rvr_bpd": {
+      "mean_diff": 0.00016364789616424177,
+      "sd_diff": 0.004145592825747222,
+      "mean_abs_diff": 0.003228732607596323,
+      "max_abs_diff": 0.016083960872640857
+    },
+    "typ_real_minus_cmm_matched": {
+      "mean_diff": 0.00018106367019105705,
+      "sd_diff": 0.004496453442611166,
+      "mean_abs_diff": 0.003708962344854725,
+      "max_abs_diff": 0.010908207672338577
+    },
+    "rvr_bpd_minus_cmm_matched": {
+      "mean_diff": 1.741577402681527e-05,
+      "sd_diff": 0.0045111846365224004,
+      "mean_abs_diff": 0.0036731600701454684,
+      "max_abs_diff": 0.013713627082456492
+    }
+  },
+  "rho_spread": {
+    "rho_vs_extremity_99p9": {
+      "lve_bpd": 0.5847505171007514,
+      "typ_real": 0.5847202939214617,
+      "rvr_bpd": 0.5846466249219433,
+      "cmm_matched": 0.5854324275834735
+    },
+    "rho_vs_field_max": {
+      "lve_bpd": 0.668604728039803,
+      "typ_real": 0.6686368401677981,
+      "rvr_bpd": 0.6689768509348064,
+      "cmm_matched": 0.6693263064453426
+    }
+  },
+  "verdict": "PASS. Numerical noise is negligible against the between-field spread. The pilot's headline correlations are not an artifact of Hutchinson or dequantisation noise. Report this as Figure 1e and proceed to E0b-g for the full numerical budget, then E1."
+}

@@ -1,0 +1,1080 @@
+{"field_id": 21, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.6851673698197486, "n_function_evals": 352, "elapsed_sec": 56.31060290336609}
+{"field_id": 21, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.7574987539582116, "n_function_evals": 292, "elapsed_sec": 46.06391906738281}
+{"field_id": 21, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.75127793324281, "n_function_evals": 340, "elapsed_sec": 53.294682264328}
+{"field_id": 21, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.8058056887777, "n_function_evals": 280, "elapsed_sec": 44.30003619194031}
+{"field_id": 21, "replicate": 0, "axis": "swap", "level": 1136, "bits_per_interior_dim": 0.8930764326340164, "n_function_evals": 328, "elapsed_sec": 51.808879375457764}
+{"field_id": 21, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.6902056329232944, "n_function_evals": 328, "elapsed_sec": 51.49611496925354}
+{"field_id": 21, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.7652503531766828, "n_function_evals": 292, "elapsed_sec": 46.092204332351685}
+{"field_id": 21, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.7544645510440885, "n_function_evals": 328, "elapsed_sec": 51.58670473098755}
+{"field_id": 21, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.8081908819305864, "n_function_evals": 292, "elapsed_sec": 45.99594593048096}
+{"field_id": 21, "replicate": 1, "axis": "swap", "level": 1136, "bits_per_interior_dim": 0.8949184752585605, "n_function_evals": 280, "elapsed_sec": 44.20393490791321}
+{"field_id": 21, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.8232860487042161, "n_function_evals": 268, "elapsed_sec": 42.70393633842468}
+{"field_id": 21, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7062386671690267, "n_function_evals": 316, "elapsed_sec": 49.664411783218384}
+{"field_id": 21, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.7145504268816978, "n_function_evals": 328, "elapsed_sec": 51.80104351043701}
+{"field_id": 21, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.8417893619523326, "n_function_evals": 328, "elapsed_sec": 51.74026441574097}
+{"field_id": 21, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.6885103441853482, "n_function_evals": 316, "elapsed_sec": 49.895387172698975}
+{"field_id": 21, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.7036907515205304, "n_function_evals": 292, "elapsed_sec": 45.87428092956543}
+{"field_id": 21, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7230214542157742, "n_function_evals": 292, "elapsed_sec": 45.92222714424133}
+{"field_id": 21, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 0.8918872822715747, "n_function_evals": 280, "elapsed_sec": 44.03612017631531}
+{"field_id": 21, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 0.9460169058750396, "n_function_evals": 268, "elapsed_sec": 42.21786689758301}
+{"field_id": 21, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.8295995089318864, "n_function_evals": 280, "elapsed_sec": 43.77533793449402}
+{"field_id": 21, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7154731808089093, "n_function_evals": 304, "elapsed_sec": 47.9634952545166}
+{"field_id": 21, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.7181764244740382, "n_function_evals": 328, "elapsed_sec": 51.30449295043945}
+{"field_id": 21, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.846801559408541, "n_function_evals": 304, "elapsed_sec": 48.09405207633972}
+{"field_id": 21, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.6887898052568983, "n_function_evals": 328, "elapsed_sec": 51.52295637130737}
+{"field_id": 21, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.7055149621035202, "n_function_evals": 328, "elapsed_sec": 51.535836935043335}
+{"field_id": 21, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7242650721191723, "n_function_evals": 316, "elapsed_sec": 49.607752323150635}
+{"field_id": 21, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 0.8949270409909479, "n_function_evals": 280, "elapsed_sec": 44.16620588302612}
+{"field_id": 21, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 0.9517400762385703, "n_function_evals": 292, "elapsed_sec": 45.763285398483276}
+{"field_id": 21, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.6895175032058872, "n_function_evals": 316, "elapsed_sec": 49.79877591133118}
+{"field_id": 21, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.8244611712777978, "n_function_evals": 268, "elapsed_sec": 42.364238262176514}
+{"field_id": 21, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.7606814487218537, "n_function_evals": 292, "elapsed_sec": 45.82012414932251}
+{"field_id": 21, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7108967627682975, "n_function_evals": 316, "elapsed_sec": 49.83134889602661}
+{"field_id": 21, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.7210561539215411, "n_function_evals": 364, "elapsed_sec": 57.10512447357178}
+{"field_id": 21, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.755754614984816, "n_function_evals": 304, "elapsed_sec": 47.92153787612915}
+{"field_id": 21, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.8462027151177125, "n_function_evals": 292, "elapsed_sec": 46.2140896320343}
+{"field_id": 21, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.6898892712879767, "n_function_evals": 316, "elapsed_sec": 49.78211760520935}
+{"field_id": 21, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.7037939460732322, "n_function_evals": 304, "elapsed_sec": 48.01670527458191}
+{"field_id": 21, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7223921841753795, "n_function_evals": 304, "elapsed_sec": 47.92375636100769}
+{"field_id": 21, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.807924043732249, "n_function_evals": 292, "elapsed_sec": 45.73595404624939}
+{"field_id": 21, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 0.8945355869638426, "n_function_evals": 316, "elapsed_sec": 49.56377410888672}
+{"field_id": 21, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 0.9463627046025612, "n_function_evals": 280, "elapsed_sec": 44.17366909980774}
+{"field_id": 21, "replicate": 2, "axis": "swap", "level": 1136, "bits_per_interior_dim": 0.8951964024176983, "n_function_evals": 280, "elapsed_sec": 43.886555671691895}
+{"field_id": 1127, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.9340344264770278, "n_function_evals": 328, "elapsed_sec": 51.762149810791016}
+{"field_id": 1127, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.316470385019979, "n_function_evals": 304, "elapsed_sec": 47.80942678451538}
+{"field_id": 1127, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.134128328748051, "n_function_evals": 292, "elapsed_sec": 45.78942131996155}
+{"field_id": 1127, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.0089078387632102, "n_function_evals": 292, "elapsed_sec": 46.085551023483276}
+{"field_id": 1127, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.981448784999902, "n_function_evals": 328, "elapsed_sec": 51.306007623672485}
+{"field_id": 1127, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.0204111864053076, "n_function_evals": 340, "elapsed_sec": 53.49452781677246}
+{"field_id": 1127, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.1294601057127363, "n_function_evals": 328, "elapsed_sec": 51.686415910720825}
+{"field_id": 1127, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.9443288173944245, "n_function_evals": 328, "elapsed_sec": 51.8523736000061}
+{"field_id": 1127, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.962437301559432, "n_function_evals": 340, "elapsed_sec": 53.32622575759888}
+{"field_id": 1127, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.985474861013453, "n_function_evals": 316, "elapsed_sec": 49.72749853134155}
+{"field_id": 1127, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.1094521502547645, "n_function_evals": 316, "elapsed_sec": 49.99572014808655}
+{"field_id": 1127, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.3316987946824002, "n_function_evals": 292, "elapsed_sec": 46.423370599746704}
+{"field_id": 1127, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.7467032998513397, "n_function_evals": 280, "elapsed_sec": 44.119527101516724}
+{"field_id": 1127, "replicate": 0, "axis": "swap", "level": 362, "bits_per_interior_dim": 2.2074795994144143, "n_function_evals": 268, "elapsed_sec": 41.9640154838562}
+{"field_id": 1127, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.9383112763237524, "n_function_evals": 340, "elapsed_sec": 53.53325319290161}
+{"field_id": 1127, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.321572423168422, "n_function_evals": 292, "elapsed_sec": 46.08550786972046}
+{"field_id": 1127, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.1399265378447279, "n_function_evals": 304, "elapsed_sec": 47.56358480453491}
+{"field_id": 1127, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.013310825097203, "n_function_evals": 328, "elapsed_sec": 51.640129804611206}
+{"field_id": 1127, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.9864884883991449, "n_function_evals": 364, "elapsed_sec": 57.19745469093323}
+{"field_id": 1127, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.0265901733071376, "n_function_evals": 340, "elapsed_sec": 53.685394048690796}
+{"field_id": 1127, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.1359444934976495, "n_function_evals": 304, "elapsed_sec": 47.6168270111084}
+{"field_id": 1127, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.9504969586326404, "n_function_evals": 328, "elapsed_sec": 51.5057897567749}
+{"field_id": 1127, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.9674398694204318, "n_function_evals": 316, "elapsed_sec": 49.43839478492737}
+{"field_id": 1127, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.9928347363929293, "n_function_evals": 304, "elapsed_sec": 47.849119663238525}
+{"field_id": 1127, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.1139446856672823, "n_function_evals": 292, "elapsed_sec": 46.1180534362793}
+{"field_id": 1127, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.3359593406775143, "n_function_evals": 268, "elapsed_sec": 42.272773027420044}
+{"field_id": 1127, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.7478345101276582, "n_function_evals": 280, "elapsed_sec": 44.14638161659241}
+{"field_id": 1127, "replicate": 1, "axis": "swap", "level": 362, "bits_per_interior_dim": 2.2119274797131196, "n_function_evals": 304, "elapsed_sec": 47.60698437690735}
+{"field_id": 1127, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.9378666492263912, "n_function_evals": 340, "elapsed_sec": 53.63226652145386}
+{"field_id": 1127, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.3145176889260959, "n_function_evals": 304, "elapsed_sec": 47.93818211555481}
+{"field_id": 1127, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.1355692491284346, "n_function_evals": 292, "elapsed_sec": 46.05359745025635}
+{"field_id": 1127, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.0106824103913674, "n_function_evals": 304, "elapsed_sec": 48.02811908721924}
+{"field_id": 1127, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.9851233711087296, "n_function_evals": 340, "elapsed_sec": 53.34998106956482}
+{"field_id": 1127, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.0236157399111199, "n_function_evals": 316, "elapsed_sec": 49.92401671409607}
+{"field_id": 1127, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.135094529953486, "n_function_evals": 316, "elapsed_sec": 49.655311584472656}
+{"field_id": 1127, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.9475956331306975, "n_function_evals": 340, "elapsed_sec": 53.48795461654663}
+{"field_id": 1127, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.9655979081693452, "n_function_evals": 340, "elapsed_sec": 53.360835790634155}
+{"field_id": 1127, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.9894376954081829, "n_function_evals": 304, "elapsed_sec": 47.75422167778015}
+{"field_id": 1127, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.11149682901873, "n_function_evals": 316, "elapsed_sec": 49.885276556015015}
+{"field_id": 1127, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.3309505183684185, "n_function_evals": 304, "elapsed_sec": 47.889023780822754}
+{"field_id": 1127, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.740252285536901, "n_function_evals": 292, "elapsed_sec": 46.03225135803223}
+{"field_id": 1127, "replicate": 2, "axis": "swap", "level": 362, "bits_per_interior_dim": 2.2057732849981764, "n_function_evals": 268, "elapsed_sec": 42.19929790496826}
+{"field_id": 372, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.09156339948864, "n_function_evals": 328, "elapsed_sec": 51.779635190963745}
+{"field_id": 372, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.6229994725584964, "n_function_evals": 256, "elapsed_sec": 40.45938062667847}
+{"field_id": 372, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.3589994492154587, "n_function_evals": 292, "elapsed_sec": 46.01173377037048}
+{"field_id": 372, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.1900204441967912, "n_function_evals": 304, "elapsed_sec": 47.92968678474426}
+{"field_id": 372, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.158100119903755, "n_function_evals": 340, "elapsed_sec": 53.70895028114319}
+{"field_id": 372, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.2335794349134055, "n_function_evals": 340, "elapsed_sec": 53.82585120201111}
+{"field_id": 372, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.4700797043108562, "n_function_evals": 364, "elapsed_sec": 57.32235026359558}
+{"field_id": 372, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.1224650816626367, "n_function_evals": 376, "elapsed_sec": 59.29071545600891}
+{"field_id": 372, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.153734063275164, "n_function_evals": 328, "elapsed_sec": 51.80676746368408}
+{"field_id": 372, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.22623535828476, "n_function_evals": 316, "elapsed_sec": 49.737651109695435}
+{"field_id": 372, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.436740253839418, "n_function_evals": 304, "elapsed_sec": 47.66433095932007}
+{"field_id": 372, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.778398729580489, "n_function_evals": 280, "elapsed_sec": 43.88562226295471}
+{"field_id": 372, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.167158421804462, "n_function_evals": 244, "elapsed_sec": 38.635292768478394}
+{"field_id": 372, "replicate": 0, "axis": "swap", "level": 1179, "bits_per_interior_dim": 2.046215300572692, "n_function_evals": 280, "elapsed_sec": 44.14176321029663}
+{"field_id": 372, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.1019344515076117, "n_function_evals": 340, "elapsed_sec": 53.52401638031006}
+{"field_id": 372, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.6332945693950094, "n_function_evals": 280, "elapsed_sec": 44.176363706588745}
+{"field_id": 372, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.3672430523243064, "n_function_evals": 292, "elapsed_sec": 45.99826526641846}
+{"field_id": 372, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.200659923781013, "n_function_evals": 316, "elapsed_sec": 49.81874346733093}
+{"field_id": 372, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.170499272565325, "n_function_evals": 340, "elapsed_sec": 53.51240611076355}
+{"field_id": 372, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.2475568615235073, "n_function_evals": 364, "elapsed_sec": 57.21049356460571}
+{"field_id": 372, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.4864965950907572, "n_function_evals": 304, "elapsed_sec": 47.805614948272705}
+{"field_id": 372, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.133218496626298, "n_function_evals": 340, "elapsed_sec": 53.36762285232544}
+{"field_id": 372, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.1666585953184072, "n_function_evals": 352, "elapsed_sec": 55.294264793395996}
+{"field_id": 372, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.236913523774276, "n_function_evals": 340, "elapsed_sec": 53.634742975234985}
+{"field_id": 372, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.4440108576723691, "n_function_evals": 304, "elapsed_sec": 47.60146617889404}
+{"field_id": 372, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.7918908864212049, "n_function_evals": 280, "elapsed_sec": 44.083210945129395}
+{"field_id": 372, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.175475206457551, "n_function_evals": 292, "elapsed_sec": 46.12376356124878}
+{"field_id": 372, "replicate": 1, "axis": "swap", "level": 1179, "bits_per_interior_dim": 2.0530801582750198, "n_function_evals": 268, "elapsed_sec": 42.31456255912781}
+{"field_id": 372, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.0930870693203292, "n_function_evals": 328, "elapsed_sec": 51.784987926483154}
+{"field_id": 372, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.6233512145852753, "n_function_evals": 280, "elapsed_sec": 43.86612606048584}
+{"field_id": 372, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.3570839765933334, "n_function_evals": 280, "elapsed_sec": 43.50351166725159}
+{"field_id": 372, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.1889357645174377, "n_function_evals": 304, "elapsed_sec": 47.049784898757935}
+{"field_id": 372, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.1642233565683424, "n_function_evals": 328, "elapsed_sec": 50.20804786682129}
+{"field_id": 372, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.2420858948615279, "n_function_evals": 316, "elapsed_sec": 48.68888831138611}
+{"field_id": 372, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.4808979637253343, "n_function_evals": 292, "elapsed_sec": 45.559556007385254}
+{"field_id": 372, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.124586937796683, "n_function_evals": 316, "elapsed_sec": 48.23951864242554}
+{"field_id": 372, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.155212337878207, "n_function_evals": 316, "elapsed_sec": 49.012097120285034}
+{"field_id": 372, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.2294049676666199, "n_function_evals": 292, "elapsed_sec": 43.92930865287781}
+{"field_id": 372, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.4400006614588876, "n_function_evals": 292, "elapsed_sec": 42.96119666099548}
+{"field_id": 372, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.78454240742961, "n_function_evals": 304, "elapsed_sec": 48.06919813156128}
+{"field_id": 372, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.1711780920089843, "n_function_evals": 280, "elapsed_sec": 44.210023403167725}
+{"field_id": 372, "replicate": 2, "axis": "swap", "level": 1179, "bits_per_interior_dim": 2.045896294189228, "n_function_evals": 304, "elapsed_sec": 47.40540814399719}
+{"field_id": 34, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.2011982201700269, "n_function_evals": 340, "elapsed_sec": 53.221638679504395}
+{"field_id": 34, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.9110146813724167, "n_function_evals": 268, "elapsed_sec": 35.245882749557495}
+{"field_id": 34, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.5054153592461434, "n_function_evals": 280, "elapsed_sec": 44.244091749191284}
+{"field_id": 34, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.3112354934919446, "n_function_evals": 328, "elapsed_sec": 51.907238721847534}
+{"field_id": 34, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.2610385994199773, "n_function_evals": 340, "elapsed_sec": 53.7452335357666}
+{"field_id": 34, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.3147550842145364, "n_function_evals": 340, "elapsed_sec": 53.224714517593384}
+{"field_id": 34, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.4946335629328675, "n_function_evals": 328, "elapsed_sec": 51.60750341415405}
+{"field_id": 34, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.211378081229928, "n_function_evals": 328, "elapsed_sec": 51.767282009124756}
+{"field_id": 34, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.235835251386395, "n_function_evals": 316, "elapsed_sec": 49.830183029174805}
+{"field_id": 34, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.2797774810841038, "n_function_evals": 316, "elapsed_sec": 49.55503511428833}
+{"field_id": 34, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.4794452022766782, "n_function_evals": 292, "elapsed_sec": 46.00616955757141}
+{"field_id": 34, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.0276974110392754, "n_function_evals": 304, "elapsed_sec": 48.013521671295166}
+{"field_id": 34, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.002057632039544, "n_function_evals": 292, "elapsed_sec": 46.11885046958923}
+{"field_id": 34, "replicate": 0, "axis": "swap", "level": 821, "bits_per_interior_dim": 3.24439983829684, "n_function_evals": 292, "elapsed_sec": 35.10195326805115}
+{"field_id": 34, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.2079630477444205, "n_function_evals": 340, "elapsed_sec": 50.55399036407471}
+{"field_id": 34, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.9150369880001838, "n_function_evals": 268, "elapsed_sec": 39.37186145782471}
+{"field_id": 34, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.5102276069474427, "n_function_evals": 280, "elapsed_sec": 38.8040714263916}
+{"field_id": 34, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.318592153247894, "n_function_evals": 316, "elapsed_sec": 48.787946462631226}
+{"field_id": 34, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.270614404642132, "n_function_evals": 352, "elapsed_sec": 54.166648626327515}
+{"field_id": 34, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.3255066010228267, "n_function_evals": 364, "elapsed_sec": 56.78005766868591}
+{"field_id": 34, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.5057423565022197, "n_function_evals": 316, "elapsed_sec": 47.00462031364441}
+{"field_id": 34, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.2157836399616244, "n_function_evals": 316, "elapsed_sec": 49.095484495162964}
+{"field_id": 34, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.2412342190244239, "n_function_evals": 316, "elapsed_sec": 48.91266942024231}
+{"field_id": 34, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.2869213347430066, "n_function_evals": 340, "elapsed_sec": 52.461981773376465}
+{"field_id": 34, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.4860206117835661, "n_function_evals": 316, "elapsed_sec": 48.57181477546692}
+{"field_id": 34, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.034513051025312, "n_function_evals": 280, "elapsed_sec": 43.23478364944458}
+{"field_id": 34, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.0118519111981823, "n_function_evals": 268, "elapsed_sec": 41.47056245803833}
+{"field_id": 34, "replicate": 1, "axis": "swap", "level": 821, "bits_per_interior_dim": 3.2543102042405594, "n_function_evals": 280, "elapsed_sec": 39.186811685562134}
+{"field_id": 34, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.2074905756307035, "n_function_evals": 316, "elapsed_sec": 46.030349254608154}
+{"field_id": 34, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.9162079034367803, "n_function_evals": 280, "elapsed_sec": 43.71185278892517}
+{"field_id": 34, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.5109891351986462, "n_function_evals": 280, "elapsed_sec": 43.72011065483093}
+{"field_id": 34, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.3160386101074415, "n_function_evals": 292, "elapsed_sec": 45.90379881858826}
+{"field_id": 34, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.269694355460611, "n_function_evals": 340, "elapsed_sec": 53.64037108421326}
+{"field_id": 34, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.3242679024149182, "n_function_evals": 328, "elapsed_sec": 51.666730642318726}
+{"field_id": 34, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.5014671816095029, "n_function_evals": 328, "elapsed_sec": 51.84520864486694}
+{"field_id": 34, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.2176868446469973, "n_function_evals": 340, "elapsed_sec": 53.52283716201782}
+{"field_id": 34, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.241171806964685, "n_function_evals": 364, "elapsed_sec": 57.59289884567261}
+{"field_id": 34, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.2860781894588433, "n_function_evals": 304, "elapsed_sec": 47.94363784790039}
+{"field_id": 34, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.4853703976005899, "n_function_evals": 304, "elapsed_sec": 48.02737641334534}
+{"field_id": 34, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.0361411677677608, "n_function_evals": 304, "elapsed_sec": 47.944090366363525}
+{"field_id": 34, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.0054449354054222, "n_function_evals": 280, "elapsed_sec": 43.96527862548828}
+{"field_id": 34, "replicate": 2, "axis": "swap", "level": 821, "bits_per_interior_dim": 3.2482608681338254, "n_function_evals": 292, "elapsed_sec": 46.02883839607239}
+{"field_id": 777, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.9385036477653022, "n_function_evals": 340, "elapsed_sec": 53.465452909469604}
+{"field_id": 777, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.4875453337553464, "n_function_evals": 292, "elapsed_sec": 45.672462463378906}
+{"field_id": 777, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.609968558279352, "n_function_evals": 292, "elapsed_sec": 45.65303373336792}
+{"field_id": 777, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.1576901641755533, "n_function_evals": 304, "elapsed_sec": 47.59010457992554}
+{"field_id": 777, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.0886015819252566, "n_function_evals": 328, "elapsed_sec": 51.132362604141235}
+{"field_id": 777, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.214666745316797, "n_function_evals": 340, "elapsed_sec": 53.17424488067627}
+{"field_id": 777, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.5104105797474343, "n_function_evals": 340, "elapsed_sec": 52.99279594421387}
+{"field_id": 777, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.9787083493098792, "n_function_evals": 340, "elapsed_sec": 55.418508768081665}
+{"field_id": 777, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.036784618824347, "n_function_evals": 304, "elapsed_sec": 62.275535583496094}
+{"field_id": 777, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.1585638794060267, "n_function_evals": 328, "elapsed_sec": 66.85037732124329}
+{"field_id": 777, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.515460130820013, "n_function_evals": 292, "elapsed_sec": 59.95601534843445}
+{"field_id": 777, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.1493048179931407, "n_function_evals": 280, "elapsed_sec": 56.26006007194519}
+{"field_id": 777, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.057466369654266, "n_function_evals": 280, "elapsed_sec": 57.670684814453125}
+{"field_id": 777, "replicate": 0, "axis": "swap", "level": 280, "bits_per_interior_dim": 4.953730283056736, "n_function_evals": 292, "elapsed_sec": 47.545990228652954}
+{"field_id": 777, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.9284421775472105, "n_function_evals": 316, "elapsed_sec": 53.74078369140625}
+{"field_id": 777, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.4846403397257575, "n_function_evals": 292, "elapsed_sec": 51.43514585494995}
+{"field_id": 777, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.5986131451320564, "n_function_evals": 304, "elapsed_sec": 52.24006748199463}
+{"field_id": 777, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.1481902075432866, "n_function_evals": 316, "elapsed_sec": 54.935381174087524}
+{"field_id": 777, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.077753050905057, "n_function_evals": 340, "elapsed_sec": 59.20468831062317}
+{"field_id": 777, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.204407538051479, "n_function_evals": 352, "elapsed_sec": 62.26619291305542}
+{"field_id": 777, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.501854385620811, "n_function_evals": 316, "elapsed_sec": 58.897364139556885}
+{"field_id": 777, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.9687547635499998, "n_function_evals": 340, "elapsed_sec": 65.52499127388}
+{"field_id": 777, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.0294216924598003, "n_function_evals": 328, "elapsed_sec": 54.69560265541077}
+{"field_id": 777, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.1500130385955223, "n_function_evals": 316, "elapsed_sec": 50.171507596969604}
+{"field_id": 777, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.5118108094684133, "n_function_evals": 292, "elapsed_sec": 58.38345646858215}
+{"field_id": 777, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.1411949475615724, "n_function_evals": 292, "elapsed_sec": 59.196772813797}
+{"field_id": 777, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.048167918342114, "n_function_evals": 256, "elapsed_sec": 52.74840831756592}
+{"field_id": 777, "replicate": 1, "axis": "swap", "level": 280, "bits_per_interior_dim": 4.95161120421966, "n_function_evals": 292, "elapsed_sec": 60.12908387184143}
+{"field_id": 777, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.9380453460352518, "n_function_evals": 328, "elapsed_sec": 66.91996216773987}
+{"field_id": 777, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.498601371676552, "n_function_evals": 280, "elapsed_sec": 57.558574199676514}
+{"field_id": 777, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.607876779456178, "n_function_evals": 304, "elapsed_sec": 62.642008781433105}
+{"field_id": 777, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.1565563954527387, "n_function_evals": 316, "elapsed_sec": 65.17217683792114}
+{"field_id": 777, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.0844791744503244, "n_function_evals": 328, "elapsed_sec": 66.87191700935364}
+{"field_id": 777, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.211278284742277, "n_function_evals": 316, "elapsed_sec": 65.0734441280365}
+{"field_id": 777, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.51177470958411, "n_function_evals": 316, "elapsed_sec": 65.1149230003357}
+{"field_id": 777, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.9762896551476188, "n_function_evals": 328, "elapsed_sec": 67.73680210113525}
+{"field_id": 777, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.0353263765721015, "n_function_evals": 316, "elapsed_sec": 64.31742477416992}
+{"field_id": 777, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.1585200812547525, "n_function_evals": 304, "elapsed_sec": 62.66409659385681}
+{"field_id": 777, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.519599966737427, "n_function_evals": 304, "elapsed_sec": 62.570085525512695}
+{"field_id": 777, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.1498282086357148, "n_function_evals": 292, "elapsed_sec": 51.910178422927856}
+{"field_id": 777, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.056674959545424, "n_function_evals": 304, "elapsed_sec": 51.63007473945618}
+{"field_id": 777, "replicate": 2, "axis": "swap", "level": 280, "bits_per_interior_dim": 4.95934329910565, "n_function_evals": 280, "elapsed_sec": 48.18227767944336}
+{"field_id": 447, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.7254106167154672, "n_function_evals": 340, "elapsed_sec": 58.439889669418335}
+{"field_id": 447, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.9067052885146766, "n_function_evals": 292, "elapsed_sec": 49.1235089302063}
+{"field_id": 447, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.8227261738093871, "n_function_evals": 292, "elapsed_sec": 50.580769777297974}
+{"field_id": 447, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7608572775769844, "n_function_evals": 340, "elapsed_sec": 57.7471399307251}
+{"field_id": 447, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.7523590770391029, "n_function_evals": 376, "elapsed_sec": 65.41893291473389}
+{"field_id": 447, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.7813210953623538, "n_function_evals": 352, "elapsed_sec": 66.29344701766968}
+{"field_id": 447, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.8655620098886431, "n_function_evals": 316, "elapsed_sec": 64.09262943267822}
+{"field_id": 447, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.7326437365492027, "n_function_evals": 316, "elapsed_sec": 54.467249155044556}
+{"field_id": 447, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.746248594152087, "n_function_evals": 328, "elapsed_sec": 51.66445589065552}
+{"field_id": 447, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7738722623009384, "n_function_evals": 292, "elapsed_sec": 46.14480423927307}
+{"field_id": 447, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.8734642241193278, "n_function_evals": 292, "elapsed_sec": 45.87517309188843}
+{"field_id": 447, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 0.9730697831163077, "n_function_evals": 304, "elapsed_sec": 47.9936420917511}
+{"field_id": 447, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.0853743666317595, "n_function_evals": 280, "elapsed_sec": 44.33346462249756}
+{"field_id": 447, "replicate": 0, "axis": "swap", "level": 756, "bits_per_interior_dim": 1.1639644145753894, "n_function_evals": 304, "elapsed_sec": 47.92652702331543}
+{"field_id": 447, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.7143989805741888, "n_function_evals": 340, "elapsed_sec": 53.4378662109375}
+{"field_id": 447, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.8988812763923415, "n_function_evals": 280, "elapsed_sec": 44.19014239311218}
+{"field_id": 447, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.8153628345326868, "n_function_evals": 316, "elapsed_sec": 49.61835598945618}
+{"field_id": 447, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7489747351403847, "n_function_evals": 316, "elapsed_sec": 49.56719493865967}
+{"field_id": 447, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.740056824028191, "n_function_evals": 340, "elapsed_sec": 53.5461585521698}
+{"field_id": 447, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.770894795407842, "n_function_evals": 316, "elapsed_sec": 49.928536891937256}
+{"field_id": 447, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.8519737568797872, "n_function_evals": 328, "elapsed_sec": 51.62696886062622}
+{"field_id": 447, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.7224607090022963, "n_function_evals": 316, "elapsed_sec": 49.82357215881348}
+{"field_id": 447, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.7377294713500319, "n_function_evals": 304, "elapsed_sec": 47.973971366882324}
+{"field_id": 447, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7656204437522405, "n_function_evals": 280, "elapsed_sec": 44.21643543243408}
+{"field_id": 447, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.8675432984129252, "n_function_evals": 304, "elapsed_sec": 47.91139626502991}
+{"field_id": 447, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 0.9685530497302455, "n_function_evals": 280, "elapsed_sec": 43.8620662689209}
+{"field_id": 447, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.0752424361379673, "n_function_evals": 280, "elapsed_sec": 44.37214779853821}
+{"field_id": 447, "replicate": 1, "axis": "swap", "level": 756, "bits_per_interior_dim": 1.1526919729631155, "n_function_evals": 280, "elapsed_sec": 44.01200866699219}
+{"field_id": 447, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.7184380700518785, "n_function_evals": 316, "elapsed_sec": 49.86178207397461}
+{"field_id": 447, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.9062623033202131, "n_function_evals": 292, "elapsed_sec": 46.07855582237244}
+{"field_id": 447, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.82261442151083, "n_function_evals": 316, "elapsed_sec": 49.74659848213196}
+{"field_id": 447, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7544244450484466, "n_function_evals": 316, "elapsed_sec": 49.814460039138794}
+{"field_id": 447, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.7474472259480499, "n_function_evals": 376, "elapsed_sec": 59.061686992645264}
+{"field_id": 447, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.7777786793955547, "n_function_evals": 352, "elapsed_sec": 55.36312651634216}
+{"field_id": 447, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.8596689000265891, "n_function_evals": 328, "elapsed_sec": 51.725239276885986}
+{"field_id": 447, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.7288976916854838, "n_function_evals": 316, "elapsed_sec": 49.9255576133728}
+{"field_id": 447, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.7443170418814349, "n_function_evals": 316, "elapsed_sec": 50.05753684043884}
+{"field_id": 447, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7709606891385173, "n_function_evals": 292, "elapsed_sec": 45.98950934410095}
+{"field_id": 447, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.8714919877321629, "n_function_evals": 280, "elapsed_sec": 44.39695978164673}
+{"field_id": 447, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 0.9740509450461002, "n_function_evals": 280, "elapsed_sec": 43.981534242630005}
+{"field_id": 447, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.08230845574441, "n_function_evals": 304, "elapsed_sec": 47.855148792266846}
+{"field_id": 447, "replicate": 2, "axis": "swap", "level": 756, "bits_per_interior_dim": 1.161977297643024, "n_function_evals": 304, "elapsed_sec": 47.808449268341064}
+{"field_id": 91, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.221336128742154, "n_function_evals": 328, "elapsed_sec": 51.961238861083984}
+{"field_id": 91, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.7212125084279861, "n_function_evals": 292, "elapsed_sec": 46.17390012741089}
+{"field_id": 91, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.4604005449579116, "n_function_evals": 292, "elapsed_sec": 45.9192099571228}
+{"field_id": 91, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.3005817167890499, "n_function_evals": 292, "elapsed_sec": 46.05574631690979}
+{"field_id": 91, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.2754239675733816, "n_function_evals": 328, "elapsed_sec": 51.7474250793457}
+{"field_id": 91, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.3474958304469935, "n_function_evals": 364, "elapsed_sec": 57.603816986083984}
+{"field_id": 91, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.5878648540883544, "n_function_evals": 304, "elapsed_sec": 48.04144787788391}
+{"field_id": 91, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.2379649321776456, "n_function_evals": 340, "elapsed_sec": 53.45065355300903}
+{"field_id": 91, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.2603248888244465, "n_function_evals": 304, "elapsed_sec": 47.86953067779541}
+{"field_id": 91, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.3252814158112085, "n_function_evals": 316, "elapsed_sec": 49.683807373046875}
+{"field_id": 91, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.5204204461014392, "n_function_evals": 304, "elapsed_sec": 47.86012649536133}
+{"field_id": 91, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.7909080283676995, "n_function_evals": 292, "elapsed_sec": 45.98681163787842}
+{"field_id": 91, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.095054378992443, "n_function_evals": 304, "elapsed_sec": 48.08919620513916}
+{"field_id": 91, "replicate": 0, "axis": "swap", "level": 33, "bits_per_interior_dim": 2.28874776021261, "n_function_evals": 292, "elapsed_sec": 46.424996852874756}
+{"field_id": 91, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.2256028135726351, "n_function_evals": 340, "elapsed_sec": 53.65740919113159}
+{"field_id": 91, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.7250297572606732, "n_function_evals": 292, "elapsed_sec": 46.25681495666504}
+{"field_id": 91, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.4608008572785505, "n_function_evals": 292, "elapsed_sec": 46.19220447540283}
+{"field_id": 91, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.3024175319651405, "n_function_evals": 304, "elapsed_sec": 48.13036394119263}
+{"field_id": 91, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.279178727515313, "n_function_evals": 340, "elapsed_sec": 53.78681135177612}
+{"field_id": 91, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.3502827187967936, "n_function_evals": 352, "elapsed_sec": 55.28742074966431}
+{"field_id": 91, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.591124373719407, "n_function_evals": 340, "elapsed_sec": 53.81998944282532}
+{"field_id": 91, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.240653829201083, "n_function_evals": 328, "elapsed_sec": 51.825005769729614}
+{"field_id": 91, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.2656297782521295, "n_function_evals": 328, "elapsed_sec": 51.709108114242554}
+{"field_id": 91, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.3318038795180807, "n_function_evals": 304, "elapsed_sec": 48.06497287750244}
+{"field_id": 91, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.5223754945116854, "n_function_evals": 280, "elapsed_sec": 44.42501735687256}
+{"field_id": 91, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.7955379588783802, "n_function_evals": 292, "elapsed_sec": 45.9051628112793}
+{"field_id": 91, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.102577194904795, "n_function_evals": 280, "elapsed_sec": 44.44760298728943}
+{"field_id": 91, "replicate": 1, "axis": "swap", "level": 33, "bits_per_interior_dim": 2.2926583442670685, "n_function_evals": 268, "elapsed_sec": 42.321455001831055}
+{"field_id": 91, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.218252850968271, "n_function_evals": 340, "elapsed_sec": 53.75394010543823}
+{"field_id": 91, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.7167197693376721, "n_function_evals": 292, "elapsed_sec": 46.20049858093262}
+{"field_id": 91, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.4522903491994221, "n_function_evals": 280, "elapsed_sec": 44.453123331069946}
+{"field_id": 91, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.2977573969265106, "n_function_evals": 316, "elapsed_sec": 49.89839959144592}
+{"field_id": 91, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.2691861297258797, "n_function_evals": 340, "elapsed_sec": 53.58728814125061}
+{"field_id": 91, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.3379512134928817, "n_function_evals": 352, "elapsed_sec": 55.54432773590088}
+{"field_id": 91, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.575260204762676, "n_function_evals": 328, "elapsed_sec": 51.816500425338745}
+{"field_id": 91, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.2308941115461978, "n_function_evals": 328, "elapsed_sec": 51.820401668548584}
+{"field_id": 91, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.2560237735873525, "n_function_evals": 328, "elapsed_sec": 51.969167709350586}
+{"field_id": 91, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.3234944590466327, "n_function_evals": 280, "elapsed_sec": 44.39360570907593}
+{"field_id": 91, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.5168021633775184, "n_function_evals": 340, "elapsed_sec": 53.59908652305603}
+{"field_id": 91, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.7892470756757033, "n_function_evals": 292, "elapsed_sec": 46.3602180480957}
+{"field_id": 91, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.0913392571610245, "n_function_evals": 316, "elapsed_sec": 49.978400230407715}
+{"field_id": 91, "replicate": 2, "axis": "swap", "level": 33, "bits_per_interior_dim": 2.279909396080859, "n_function_evals": 304, "elapsed_sec": 47.9602427482605}
+{"field_id": 1203, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.6527072936020357, "n_function_evals": 340, "elapsed_sec": 53.44954299926758}
+{"field_id": 1203, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 2.475271227211313, "n_function_evals": 292, "elapsed_sec": 46.30786156654358}
+{"field_id": 1203, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.0412587665623314, "n_function_evals": 316, "elapsed_sec": 50.006088733673096}
+{"field_id": 1203, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.778327971332456, "n_function_evals": 304, "elapsed_sec": 47.805190324783325}
+{"field_id": 1203, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.7566084558367119, "n_function_evals": 352, "elapsed_sec": 55.438257932662964}
+{"field_id": 1203, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.882159411646525, "n_function_evals": 328, "elapsed_sec": 51.77065920829773}
+{"field_id": 1203, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.1579908596804405, "n_function_evals": 316, "elapsed_sec": 49.7833046913147}
+{"field_id": 1203, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.6908858323678704, "n_function_evals": 340, "elapsed_sec": 53.672751903533936}
+{"field_id": 1203, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.7304526217711682, "n_function_evals": 316, "elapsed_sec": 49.68281650543213}
+{"field_id": 1203, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.7992915180407538, "n_function_evals": 316, "elapsed_sec": 49.70610547065735}
+{"field_id": 1203, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.0269968314516325, "n_function_evals": 292, "elapsed_sec": 46.17713761329651}
+{"field_id": 1203, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.3851106143407197, "n_function_evals": 280, "elapsed_sec": 44.217997550964355}
+{"field_id": 1203, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.787463302300283, "n_function_evals": 280, "elapsed_sec": 44.18468618392944}
+{"field_id": 1203, "replicate": 0, "axis": "swap", "level": 1113, "bits_per_interior_dim": 3.32790955816466, "n_function_evals": 292, "elapsed_sec": 46.074607849121094}
+{"field_id": 1203, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.6507929570206492, "n_function_evals": 352, "elapsed_sec": 55.38562083244324}
+{"field_id": 1203, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 2.47413511630583, "n_function_evals": 280, "elapsed_sec": 44.394986152648926}
+{"field_id": 1203, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.0405522382442873, "n_function_evals": 304, "elapsed_sec": 47.91872215270996}
+{"field_id": 1203, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.7757817483291127, "n_function_evals": 292, "elapsed_sec": 46.167253255844116}
+{"field_id": 1203, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.7551825918659751, "n_function_evals": 352, "elapsed_sec": 55.69476795196533}
+{"field_id": 1203, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.882962168500168, "n_function_evals": 316, "elapsed_sec": 50.12303829193115}
+{"field_id": 1203, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.154576208113281, "n_function_evals": 352, "elapsed_sec": 55.804444789886475}
+{"field_id": 1203, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.6941157923741812, "n_function_evals": 328, "elapsed_sec": 52.010395526885986}
+{"field_id": 1203, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.7345311417540057, "n_function_evals": 340, "elapsed_sec": 53.535189151763916}
+{"field_id": 1203, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.801592430888303, "n_function_evals": 292, "elapsed_sec": 46.26105785369873}
+{"field_id": 1203, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.027782772206727, "n_function_evals": 268, "elapsed_sec": 42.176939725875854}
+{"field_id": 1203, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.3834425494025107, "n_function_evals": 280, "elapsed_sec": 44.29657459259033}
+{"field_id": 1203, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.784909425522385, "n_function_evals": 304, "elapsed_sec": 48.14927887916565}
+{"field_id": 1203, "replicate": 1, "axis": "swap", "level": 1113, "bits_per_interior_dim": 3.3286311359105105, "n_function_evals": 292, "elapsed_sec": 46.21702170372009}
+{"field_id": 1203, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.647096129471539, "n_function_evals": 340, "elapsed_sec": 53.6580605506897}
+{"field_id": 1203, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 2.4713917156431924, "n_function_evals": 292, "elapsed_sec": 46.27632784843445}
+{"field_id": 1203, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.035881574316284, "n_function_evals": 304, "elapsed_sec": 48.17652177810669}
+{"field_id": 1203, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.7717256213003447, "n_function_evals": 292, "elapsed_sec": 46.250683307647705}
+{"field_id": 1203, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.7489610927255492, "n_function_evals": 352, "elapsed_sec": 55.64117932319641}
+{"field_id": 1203, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.8762335936557661, "n_function_evals": 352, "elapsed_sec": 55.58043313026428}
+{"field_id": 1203, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.148317829870757, "n_function_evals": 316, "elapsed_sec": 49.69154334068298}
+{"field_id": 1203, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.686714495449109, "n_function_evals": 304, "elapsed_sec": 48.14039754867554}
+{"field_id": 1203, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.7278627462598621, "n_function_evals": 304, "elapsed_sec": 48.02510595321655}
+{"field_id": 1203, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.7960903731438076, "n_function_evals": 304, "elapsed_sec": 47.74838590621948}
+{"field_id": 1203, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.018917682061974, "n_function_evals": 304, "elapsed_sec": 48.00958180427551}
+{"field_id": 1203, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.3803912261570037, "n_function_evals": 304, "elapsed_sec": 48.091211795806885}
+{"field_id": 1203, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.7783629232227245, "n_function_evals": 280, "elapsed_sec": 44.30029273033142}
+{"field_id": 1203, "replicate": 2, "axis": "swap", "level": 1113, "bits_per_interior_dim": 3.3196245453898134, "n_function_evals": 280, "elapsed_sec": 44.09402585029602}
+{"field_id": 115, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.6507176418204408, "n_function_evals": 316, "elapsed_sec": 49.990309715270996}
+{"field_id": 115, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.0492445048941925, "n_function_evals": 316, "elapsed_sec": 49.9445219039917}
+{"field_id": 115, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.2272549107466637, "n_function_evals": 304, "elapsed_sec": 47.97853064537048}
+{"field_id": 115, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.8434200123575701, "n_function_evals": 292, "elapsed_sec": 46.23394775390625}
+{"field_id": 115, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.729220660430019, "n_function_evals": 328, "elapsed_sec": 51.94823122024536}
+{"field_id": 115, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.8265320423896962, "n_function_evals": 328, "elapsed_sec": 51.82502031326294}
+{"field_id": 115, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.083039869668175, "n_function_evals": 328, "elapsed_sec": 51.76448154449463}
+{"field_id": 115, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.681646035520459, "n_function_evals": 340, "elapsed_sec": 53.56765818595886}
+{"field_id": 115, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.721787443629416, "n_function_evals": 340, "elapsed_sec": 53.91757845878601}
+{"field_id": 115, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.8278238808213212, "n_function_evals": 316, "elapsed_sec": 50.02540564537048}
+{"field_id": 115, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.1211049284272225, "n_function_evals": 316, "elapsed_sec": 49.98810625076294}
+{"field_id": 115, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.6360189522332655, "n_function_evals": 268, "elapsed_sec": 42.427579402923584}
+{"field_id": 115, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.349783943295226, "n_function_evals": 268, "elapsed_sec": 42.25595474243164}
+{"field_id": 115, "replicate": 0, "axis": "swap", "level": 365, "bits_per_interior_dim": 4.41371757875228, "n_function_evals": 280, "elapsed_sec": 44.09378123283386}
+{"field_id": 115, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.6481386336400972, "n_function_evals": 352, "elapsed_sec": 55.70038032531738}
+{"field_id": 115, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.044821281259118, "n_function_evals": 304, "elapsed_sec": 47.95978808403015}
+{"field_id": 115, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.2194734721692195, "n_function_evals": 304, "elapsed_sec": 48.02598261833191}
+{"field_id": 115, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.840176610330182, "n_function_evals": 328, "elapsed_sec": 51.899919748306274}
+{"field_id": 115, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.728114452135811, "n_function_evals": 340, "elapsed_sec": 53.42708420753479}
+{"field_id": 115, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.8255605079881032, "n_function_evals": 352, "elapsed_sec": 55.38933706283569}
+{"field_id": 115, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.0868893146537273, "n_function_evals": 340, "elapsed_sec": 53.40855073928833}
+{"field_id": 115, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.6794267061875925, "n_function_evals": 316, "elapsed_sec": 49.664552450180054}
+{"field_id": 115, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.7203041140154107, "n_function_evals": 328, "elapsed_sec": 51.634273529052734}
+{"field_id": 115, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.8242456058920558, "n_function_evals": 304, "elapsed_sec": 48.01282739639282}
+{"field_id": 115, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.117614847711525, "n_function_evals": 304, "elapsed_sec": 48.21089959144592}
+{"field_id": 115, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.629500735845302, "n_function_evals": 280, "elapsed_sec": 44.17007493972778}
+{"field_id": 115, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.3455227972239174, "n_function_evals": 292, "elapsed_sec": 46.11079812049866}
+{"field_id": 115, "replicate": 1, "axis": "swap", "level": 365, "bits_per_interior_dim": 4.413686405835372, "n_function_evals": 280, "elapsed_sec": 44.22979187965393}
+{"field_id": 115, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.6474539444207175, "n_function_evals": 352, "elapsed_sec": 55.43702840805054}
+{"field_id": 115, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.048234793748638, "n_function_evals": 304, "elapsed_sec": 48.00977873802185}
+{"field_id": 115, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.2240794927329075, "n_function_evals": 292, "elapsed_sec": 45.822017431259155}
+{"field_id": 115, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.8401885021749507, "n_function_evals": 304, "elapsed_sec": 48.03319001197815}
+{"field_id": 115, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.728239421472738, "n_function_evals": 352, "elapsed_sec": 55.449814796447754}
+{"field_id": 115, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.8270857405691743, "n_function_evals": 340, "elapsed_sec": 53.66946530342102}
+{"field_id": 115, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.088992178929666, "n_function_evals": 340, "elapsed_sec": 53.44435405731201}
+{"field_id": 115, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.679143401053483, "n_function_evals": 304, "elapsed_sec": 48.184415102005005}
+{"field_id": 115, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.721676680657169, "n_function_evals": 328, "elapsed_sec": 51.67190647125244}
+{"field_id": 115, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.8264819076284033, "n_function_evals": 280, "elapsed_sec": 44.26906418800354}
+{"field_id": 115, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.1209675548007483, "n_function_evals": 316, "elapsed_sec": 49.97922921180725}
+{"field_id": 115, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.6399662793235708, "n_function_evals": 268, "elapsed_sec": 42.20010447502136}
+{"field_id": 115, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.351952561740325, "n_function_evals": 280, "elapsed_sec": 44.343905448913574}
+{"field_id": 115, "replicate": 2, "axis": "swap", "level": 365, "bits_per_interior_dim": 4.416851199242515, "n_function_evals": 280, "elapsed_sec": 44.19557762145996}
+{"field_id": 150, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.684618091781006, "n_function_evals": 328, "elapsed_sec": 52.00790596008301}
+{"field_id": 150, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.192970677250601, "n_function_evals": 292, "elapsed_sec": 45.76736092567444}
+{"field_id": 150, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.8644860303265576, "n_function_evals": 292, "elapsed_sec": 45.9439332485199}
+{"field_id": 150, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.058179013241251, "n_function_evals": 292, "elapsed_sec": 46.251529693603516}
+{"field_id": 150, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.7714843762634267, "n_function_evals": 364, "elapsed_sec": 57.24027895927429}
+{"field_id": 150, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.8817887071358923, "n_function_evals": 340, "elapsed_sec": 53.83621549606323}
+{"field_id": 150, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.4058867208246424, "n_function_evals": 304, "elapsed_sec": 48.055471420288086}
+{"field_id": 150, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.7180872486896552, "n_function_evals": 340, "elapsed_sec": 53.55118751525879}
+{"field_id": 150, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.7734011124195237, "n_function_evals": 316, "elapsed_sec": 49.94820976257324}
+{"field_id": 150, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.9228714026994655, "n_function_evals": 292, "elapsed_sec": 45.81464600563049}
+{"field_id": 150, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.2997217375905774, "n_function_evals": 292, "elapsed_sec": 46.187944650650024}
+{"field_id": 150, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.9684127253520116, "n_function_evals": 304, "elapsed_sec": 47.81576490402222}
+{"field_id": 150, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.8713970699272, "n_function_evals": 292, "elapsed_sec": 46.312216997146606}
+{"field_id": 150, "replicate": 0, "axis": "swap", "level": 1297, "bits_per_interior_dim": 5.9317159689187795, "n_function_evals": 280, "elapsed_sec": 44.329200744628906}
+{"field_id": 150, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.672857449990881, "n_function_evals": 340, "elapsed_sec": 53.81348919868469}
+{"field_id": 150, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.183483387774141, "n_function_evals": 268, "elapsed_sec": 42.308181285858154}
+{"field_id": 150, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.8544370878878897, "n_function_evals": 280, "elapsed_sec": 44.440752267837524}
+{"field_id": 150, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.052574389392039, "n_function_evals": 292, "elapsed_sec": 46.01049780845642}
+{"field_id": 150, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.7624989888561515, "n_function_evals": 352, "elapsed_sec": 55.66873049736023}
+{"field_id": 150, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.87410594304681, "n_function_evals": 340, "elapsed_sec": 53.886544704437256}
+{"field_id": 150, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.39328759892892, "n_function_evals": 316, "elapsed_sec": 50.00563311576843}
+{"field_id": 150, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.70534728111739, "n_function_evals": 328, "elapsed_sec": 51.838335037231445}
+{"field_id": 150, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.7629876065320227, "n_function_evals": 316, "elapsed_sec": 49.791202545166016}
+{"field_id": 150, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.9100331805977233, "n_function_evals": 292, "elapsed_sec": 45.94196033477783}
+{"field_id": 150, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.291051702191704, "n_function_evals": 304, "elapsed_sec": 47.853983879089355}
+{"field_id": 150, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.96114033950561, "n_function_evals": 304, "elapsed_sec": 48.15023970603943}
+{"field_id": 150, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.862488685016405, "n_function_evals": 292, "elapsed_sec": 46.18849205970764}
+{"field_id": 150, "replicate": 1, "axis": "swap", "level": 1297, "bits_per_interior_dim": 5.9261531433059575, "n_function_evals": 268, "elapsed_sec": 42.34369516372681}
+{"field_id": 150, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.6845468800628662, "n_function_evals": 304, "elapsed_sec": 47.80984449386597}
+{"field_id": 150, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.196160347412369, "n_function_evals": 280, "elapsed_sec": 44.09861946105957}
+{"field_id": 150, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.8639471998963697, "n_function_evals": 268, "elapsed_sec": 42.16759634017944}
+{"field_id": 150, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.0622528431311733, "n_function_evals": 292, "elapsed_sec": 46.0171000957489}
+{"field_id": 150, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.771712394402977, "n_function_evals": 328, "elapsed_sec": 51.78361105918884}
+{"field_id": 150, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.8864237520427767, "n_function_evals": 352, "elapsed_sec": 55.71455526351929}
+{"field_id": 150, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.4089388287117828, "n_function_evals": 316, "elapsed_sec": 49.919209480285645}
+{"field_id": 150, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.7161293382036664, "n_function_evals": 340, "elapsed_sec": 55.335543632507324}
+{"field_id": 150, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.771778941071465, "n_function_evals": 352, "elapsed_sec": 55.88798403739929}
+{"field_id": 150, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.921487155057504, "n_function_evals": 316, "elapsed_sec": 49.97157907485962}
+{"field_id": 150, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.2983710105396007, "n_function_evals": 292, "elapsed_sec": 46.84877014160156}
+{"field_id": 150, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.9626417682200525, "n_function_evals": 316, "elapsed_sec": 50.289896965026855}
+{"field_id": 150, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.867632037724583, "n_function_evals": 292, "elapsed_sec": 46.21226501464844}
+{"field_id": 150, "replicate": 2, "axis": "swap", "level": 1297, "bits_per_interior_dim": 5.931096572813042, "n_function_evals": 268, "elapsed_sec": 42.69690275192261}
+{"field_id": 271, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.838902017571991, "n_function_evals": 328, "elapsed_sec": 53.0679087638855}
+{"field_id": 271, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.0739803395350838, "n_function_evals": 280, "elapsed_sec": 44.73319387435913}
+{"field_id": 271, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.390798984606386, "n_function_evals": 292, "elapsed_sec": 46.68824052810669}
+{"field_id": 271, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.01883837744944, "n_function_evals": 316, "elapsed_sec": 50.27297830581665}
+{"field_id": 271, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.9729358025720962, "n_function_evals": 352, "elapsed_sec": 56.192193031311035}
+{"field_id": 271, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.09884928607043, "n_function_evals": 328, "elapsed_sec": 52.2319130897522}
+{"field_id": 271, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.377939727164044, "n_function_evals": 316, "elapsed_sec": 49.8600172996521}
+{"field_id": 271, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.8784939301016768, "n_function_evals": 340, "elapsed_sec": 54.40009927749634}
+{"field_id": 271, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.9233150687756568, "n_function_evals": 316, "elapsed_sec": 50.00335168838501}
+{"field_id": 271, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.0247705372031444, "n_function_evals": 340, "elapsed_sec": 53.347707986831665}
+{"field_id": 271, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.2637503907838687, "n_function_evals": 304, "elapsed_sec": 47.93314838409424}
+{"field_id": 271, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.652962291072649, "n_function_evals": 292, "elapsed_sec": 46.44271230697632}
+{"field_id": 271, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.293114056117311, "n_function_evals": 280, "elapsed_sec": 44.15433883666992}
+{"field_id": 271, "replicate": 0, "axis": "swap", "level": 365, "bits_per_interior_dim": 4.401073552857324, "n_function_evals": 268, "elapsed_sec": 42.5221266746521}
+{"field_id": 271, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.8422396745947753, "n_function_evals": 328, "elapsed_sec": 51.764095306396484}
+{"field_id": 271, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.078914112464447, "n_function_evals": 280, "elapsed_sec": 44.2216694355011}
+{"field_id": 271, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.3951639428437863, "n_function_evals": 268, "elapsed_sec": 42.39963483810425}
+{"field_id": 271, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.024441237818017, "n_function_evals": 328, "elapsed_sec": 51.98756551742554}
+{"field_id": 271, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.9734126737113007, "n_function_evals": 340, "elapsed_sec": 53.53922367095947}
+{"field_id": 271, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.099944115460827, "n_function_evals": 340, "elapsed_sec": 53.942302227020264}
+{"field_id": 271, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.379470077066264, "n_function_evals": 328, "elapsed_sec": 51.81664299964905}
+{"field_id": 271, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.8804560972188824, "n_function_evals": 328, "elapsed_sec": 51.95620250701904}
+{"field_id": 271, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.9271429249661947, "n_function_evals": 304, "elapsed_sec": 48.095813035964966}
+{"field_id": 271, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.0271320391849392, "n_function_evals": 304, "elapsed_sec": 48.18370032310486}
+{"field_id": 271, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.2640603175690277, "n_function_evals": 316, "elapsed_sec": 50.107178926467896}
+{"field_id": 271, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.655198578819872, "n_function_evals": 292, "elapsed_sec": 46.07286739349365}
+{"field_id": 271, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.2993294854880624, "n_function_evals": 304, "elapsed_sec": 48.061798095703125}
+{"field_id": 271, "replicate": 1, "axis": "swap", "level": 365, "bits_per_interior_dim": 4.403663189806952, "n_function_evals": 268, "elapsed_sec": 42.26242637634277}
+{"field_id": 271, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.8299864501436491, "n_function_evals": 316, "elapsed_sec": 50.04495882987976}
+{"field_id": 271, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.0670468026506605, "n_function_evals": 280, "elapsed_sec": 44.45412063598633}
+{"field_id": 271, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.386965751030106, "n_function_evals": 292, "elapsed_sec": 46.333603382110596}
+{"field_id": 271, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.011275725783107, "n_function_evals": 304, "elapsed_sec": 47.99739742279053}
+{"field_id": 271, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.9626941342282513, "n_function_evals": 340, "elapsed_sec": 53.750370264053345}
+{"field_id": 271, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.088598925402478, "n_function_evals": 364, "elapsed_sec": 57.30836606025696}
+{"field_id": 271, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.3710612902379817, "n_function_evals": 328, "elapsed_sec": 51.70853590965271}
+{"field_id": 271, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.8709355498893587, "n_function_evals": 304, "elapsed_sec": 55.725643157958984}
+{"field_id": 271, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.9151512727928544, "n_function_evals": 340, "elapsed_sec": 60.30056691169739}
+{"field_id": 271, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.017132357300851, "n_function_evals": 328, "elapsed_sec": 51.83502125740051}
+{"field_id": 271, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.256814929967691, "n_function_evals": 268, "elapsed_sec": 42.23180842399597}
+{"field_id": 271, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.6465252440413356, "n_function_evals": 268, "elapsed_sec": 42.37876224517822}
+{"field_id": 271, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.2901338118689347, "n_function_evals": 292, "elapsed_sec": 46.065253257751465}
+{"field_id": 271, "replicate": 2, "axis": "swap", "level": 365, "bits_per_interior_dim": 4.395866376371352, "n_function_evals": 292, "elapsed_sec": 46.12844967842102}
+{"field_id": 993, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.5476521110814776, "n_function_evals": 364, "elapsed_sec": 57.58512735366821}
+{"field_id": 993, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 4.900263306087876, "n_function_evals": 292, "elapsed_sec": 46.121931314468384}
+{"field_id": 993, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.6220042320649206, "n_function_evals": 304, "elapsed_sec": 48.07983684539795}
+{"field_id": 993, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.884400188084385, "n_function_evals": 316, "elapsed_sec": 50.11876916885376}
+{"field_id": 993, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.6526993148486047, "n_function_evals": 340, "elapsed_sec": 53.52643704414368}
+{"field_id": 993, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.7649657889563732, "n_function_evals": 304, "elapsed_sec": 47.736732482910156}
+{"field_id": 993, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.1915957046836807, "n_function_evals": 328, "elapsed_sec": 51.96780490875244}
+{"field_id": 993, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.5995279681135384, "n_function_evals": 340, "elapsed_sec": 53.74081230163574}
+{"field_id": 993, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.6629612569129875, "n_function_evals": 340, "elapsed_sec": 53.706305265426636}
+{"field_id": 993, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.7973940091014735, "n_function_evals": 292, "elapsed_sec": 46.05136823654175}
+{"field_id": 993, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.1907072904193683, "n_function_evals": 292, "elapsed_sec": 46.07753539085388}
+{"field_id": 993, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.9584089002293052, "n_function_evals": 280, "elapsed_sec": 44.20224356651306}
+{"field_id": 993, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.022414476513747, "n_function_evals": 280, "elapsed_sec": 44.006632804870605}
+{"field_id": 993, "replicate": 0, "axis": "swap", "level": 1274, "bits_per_interior_dim": 5.590837972429141, "n_function_evals": 280, "elapsed_sec": 44.08281898498535}
+{"field_id": 993, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.5453956572019263, "n_function_evals": 340, "elapsed_sec": 53.26480197906494}
+{"field_id": 993, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 4.900267734081835, "n_function_evals": 316, "elapsed_sec": 49.953266859054565}
+{"field_id": 993, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.621029080794821, "n_function_evals": 268, "elapsed_sec": 42.41900587081909}
+{"field_id": 993, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.8817052052653565, "n_function_evals": 304, "elapsed_sec": 47.632397174835205}
+{"field_id": 993, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.6514997163985647, "n_function_evals": 340, "elapsed_sec": 53.68450450897217}
+{"field_id": 993, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.7624088936186952, "n_function_evals": 340, "elapsed_sec": 53.59688878059387}
+{"field_id": 993, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.1903949715601283, "n_function_evals": 328, "elapsed_sec": 51.90709590911865}
+{"field_id": 993, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.595884551169122, "n_function_evals": 340, "elapsed_sec": 53.63885283470154}
+{"field_id": 993, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.6585373690442387, "n_function_evals": 340, "elapsed_sec": 53.597654819488525}
+{"field_id": 993, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.7927503701431173, "n_function_evals": 304, "elapsed_sec": 48.120511531829834}
+{"field_id": 993, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.186649536216616, "n_function_evals": 292, "elapsed_sec": 45.9476900100708}
+{"field_id": 993, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.9541345476438634, "n_function_evals": 316, "elapsed_sec": 49.79416513442993}
+{"field_id": 993, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.019815260482525, "n_function_evals": 280, "elapsed_sec": 44.276464223861694}
+{"field_id": 993, "replicate": 1, "axis": "swap", "level": 1274, "bits_per_interior_dim": 5.587251340650058, "n_function_evals": 268, "elapsed_sec": 42.33272314071655}
+{"field_id": 993, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.542440007208732, "n_function_evals": 352, "elapsed_sec": 55.53003716468811}
+{"field_id": 993, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 4.903292133254406, "n_function_evals": 280, "elapsed_sec": 53.918885946273804}
+{"field_id": 993, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.621987808332687, "n_function_evals": 280, "elapsed_sec": 57.34846568107605}
+{"field_id": 993, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.880058616460927, "n_function_evals": 316, "elapsed_sec": 64.62553572654724}
+{"field_id": 993, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.6513170146653224, "n_function_evals": 364, "elapsed_sec": 74.37894487380981}
+{"field_id": 993, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.7632919843935912, "n_function_evals": 340, "elapsed_sec": 69.94113302230835}
+{"field_id": 993, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.192325693445721, "n_function_evals": 328, "elapsed_sec": 67.06645846366882}
+{"field_id": 993, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.5924113739664354, "n_function_evals": 328, "elapsed_sec": 67.06859254837036}
+{"field_id": 993, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.658237036392719, "n_function_evals": 340, "elapsed_sec": 69.09665822982788}
+{"field_id": 993, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.791358479478891, "n_function_evals": 304, "elapsed_sec": 61.432947874069214}
+{"field_id": 993, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.185621187870346, "n_function_evals": 280, "elapsed_sec": 50.24589562416077}
+{"field_id": 993, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.9582248824183384, "n_function_evals": 316, "elapsed_sec": 56.546645164489746}
+{"field_id": 993, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.023206771981967, "n_function_evals": 280, "elapsed_sec": 56.207263469696045}
+{"field_id": 993, "replicate": 2, "axis": "swap", "level": 1274, "bits_per_interior_dim": 5.594337987864015, "n_function_evals": 280, "elapsed_sec": 31.78187656402588}
+{"field_id": 548, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.8841317833539466, "n_function_evals": 328, "elapsed_sec": 36.91960287094116}
+{"field_id": 548, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.36528498795627, "n_function_evals": 280, "elapsed_sec": 31.512564420700073}
+{"field_id": 548, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.070290829394872, "n_function_evals": 292, "elapsed_sec": 33.139488220214844}
+{"field_id": 548, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.270438625057281, "n_function_evals": 304, "elapsed_sec": 34.04103112220764}
+{"field_id": 548, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.94015212622091, "n_function_evals": 376, "elapsed_sec": 37.81546711921692}
+{"field_id": 548, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.060379126044799, "n_function_evals": 328, "elapsed_sec": 30.074878692626953}
+{"field_id": 548, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.6146585780679805, "n_function_evals": 316, "elapsed_sec": 28.938721895217896}
+{"field_id": 548, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.919279329503165, "n_function_evals": 340, "elapsed_sec": 38.1559374332428}
+{"field_id": 548, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.9688085087856324, "n_function_evals": 292, "elapsed_sec": 33.13268971443176}
+{"field_id": 548, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.1032963548536583, "n_function_evals": 304, "elapsed_sec": 34.53373694419861}
+{"field_id": 548, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.515471517529332, "n_function_evals": 316, "elapsed_sec": 52.87974452972412}
+{"field_id": 548, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 4.2840070564118236, "n_function_evals": 304, "elapsed_sec": 62.94523620605469}
+{"field_id": 548, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.351746540187523, "n_function_evals": 292, "elapsed_sec": 60.50366806983948}
+{"field_id": 548, "replicate": 0, "axis": "swap", "level": 237, "bits_per_interior_dim": 5.08449971985998, "n_function_evals": 304, "elapsed_sec": 55.24895238876343}
+{"field_id": 548, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.890880875446911, "n_function_evals": 352, "elapsed_sec": 69.40648651123047}
+{"field_id": 548, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.369956499325797, "n_function_evals": 280, "elapsed_sec": 57.74028015136719}
+{"field_id": 548, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.070767015604501, "n_function_evals": 280, "elapsed_sec": 57.97250986099243}
+{"field_id": 548, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.272168373314234, "n_function_evals": 316, "elapsed_sec": 65.71099948883057}
+{"field_id": 548, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.951745474618715, "n_function_evals": 352, "elapsed_sec": 73.15614986419678}
+{"field_id": 548, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.07374202478355, "n_function_evals": 328, "elapsed_sec": 68.46064066886902}
+{"field_id": 548, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.625848809204831, "n_function_evals": 292, "elapsed_sec": 60.567363023757935}
+{"field_id": 548, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.928927475876595, "n_function_evals": 316, "elapsed_sec": 65.61987233161926}
+{"field_id": 548, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.97834198212667, "n_function_evals": 292, "elapsed_sec": 60.71955370903015}
+{"field_id": 548, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.1129966684824355, "n_function_evals": 316, "elapsed_sec": 58.47610330581665}
+{"field_id": 548, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.523749513283199, "n_function_evals": 304, "elapsed_sec": 54.938939809799194}
+{"field_id": 548, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 4.287395849426079, "n_function_evals": 292, "elapsed_sec": 58.32320523262024}
+{"field_id": 548, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.3611854021920875, "n_function_evals": 280, "elapsed_sec": 58.00415754318237}
+{"field_id": 548, "replicate": 1, "axis": "swap", "level": 237, "bits_per_interior_dim": 5.0928271609439255, "n_function_evals": 268, "elapsed_sec": 55.6573965549469}
+{"field_id": 548, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.891405537336843, "n_function_evals": 340, "elapsed_sec": 70.83730435371399}
+{"field_id": 548, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.3709687308811045, "n_function_evals": 292, "elapsed_sec": 60.37746286392212}
+{"field_id": 548, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.073979543579607, "n_function_evals": 280, "elapsed_sec": 50.55799198150635}
+{"field_id": 548, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.2743026115414557, "n_function_evals": 292, "elapsed_sec": 52.688833236694336}
+{"field_id": 548, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.9507225037182896, "n_function_evals": 364, "elapsed_sec": 73.2198121547699}
+{"field_id": 548, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.0698664578121884, "n_function_evals": 364, "elapsed_sec": 75.64535999298096}
+{"field_id": 548, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.6239175102908874, "n_function_evals": 292, "elapsed_sec": 60.43458366394043}
+{"field_id": 548, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.928137368245848, "n_function_evals": 316, "elapsed_sec": 65.56946229934692}
+{"field_id": 548, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.980547297904248, "n_function_evals": 304, "elapsed_sec": 62.57802057266235}
+{"field_id": 548, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.1137021311883593, "n_function_evals": 292, "elapsed_sec": 59.128010511398315}
+{"field_id": 548, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.52257586055033, "n_function_evals": 292, "elapsed_sec": 60.34188413619995}
+{"field_id": 548, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 4.287797111360377, "n_function_evals": 280, "elapsed_sec": 58.01063251495361}
+{"field_id": 548, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.354100320905413, "n_function_evals": 280, "elapsed_sec": 58.00967812538147}
+{"field_id": 548, "replicate": 2, "axis": "swap", "level": 237, "bits_per_interior_dim": 5.0896883305671645, "n_function_evals": 280, "elapsed_sec": 58.115803718566895}
+{"field_id": 210, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 3.102384398865585, "n_function_evals": 328, "elapsed_sec": 68.17746233940125}
+{"field_id": 210, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.626078867914087, "n_function_evals": 292, "elapsed_sec": 60.84701943397522}
+{"field_id": 210, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.328472701919914, "n_function_evals": 292, "elapsed_sec": 60.52143454551697}
+{"field_id": 210, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.4975110055514276, "n_function_evals": 304, "elapsed_sec": 62.85841369628906}
+{"field_id": 210, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 3.1315141994424476, "n_function_evals": 364, "elapsed_sec": 75.36638045310974}
+{"field_id": 210, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.263745208361458, "n_function_evals": 328, "elapsed_sec": 62.59832286834717}
+{"field_id": 210, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.9405638368042597, "n_function_evals": 316, "elapsed_sec": 57.160465717315674}
+{"field_id": 210, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 3.1372587789571247, "n_function_evals": 328, "elapsed_sec": 64.42728114128113}
+{"field_id": 210, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 3.190256235588812, "n_function_evals": 352, "elapsed_sec": 73.0468430519104}
+{"field_id": 210, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.3355701659022117, "n_function_evals": 304, "elapsed_sec": 63.011433839797974}
+{"field_id": 210, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.7386392093080834, "n_function_evals": 316, "elapsed_sec": 65.62753200531006}
+{"field_id": 210, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 4.479601459465151, "n_function_evals": 328, "elapsed_sec": 67.98306608200073}
+{"field_id": 210, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.601149600683452, "n_function_evals": 280, "elapsed_sec": 58.154722929000854}
+{"field_id": 210, "replicate": 0, "axis": "swap", "level": 930, "bits_per_interior_dim": 4.451384520887671, "n_function_evals": 316, "elapsed_sec": 50.44503879547119}
+{"field_id": 210, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 3.1014641533966203, "n_function_evals": 316, "elapsed_sec": 59.23705983161926}
+{"field_id": 210, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.627290013777399, "n_function_evals": 280, "elapsed_sec": 57.29896140098572}
+{"field_id": 210, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.328410029425893, "n_function_evals": 316, "elapsed_sec": 64.95629215240479}
+{"field_id": 210, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.49956102291424, "n_function_evals": 316, "elapsed_sec": 65.09224271774292}
+{"field_id": 210, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 3.1317717504457345, "n_function_evals": 352, "elapsed_sec": 60.032033920288086}
+{"field_id": 210, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.265170330435767, "n_function_evals": 352, "elapsed_sec": 55.958698749542236}
+{"field_id": 210, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.941802567033958, "n_function_evals": 304, "elapsed_sec": 51.92996263504028}
+{"field_id": 210, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 3.13702152782261, "n_function_evals": 316, "elapsed_sec": 50.34181475639343}
+{"field_id": 210, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 3.189594396164689, "n_function_evals": 328, "elapsed_sec": 58.41925382614136}
+{"field_id": 210, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.337533422709661, "n_function_evals": 316, "elapsed_sec": 64.93753242492676}
+{"field_id": 210, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.737476743731578, "n_function_evals": 316, "elapsed_sec": 64.59858107566833}
+{"field_id": 210, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 4.482480164162964, "n_function_evals": 280, "elapsed_sec": 57.009557008743286}
+{"field_id": 210, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.598922779157717, "n_function_evals": 304, "elapsed_sec": 62.362414836883545}
+{"field_id": 210, "replicate": 1, "axis": "swap", "level": 930, "bits_per_interior_dim": 4.452145440281809, "n_function_evals": 292, "elapsed_sec": 54.48929524421692}
+{"field_id": 210, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 3.103561544668116, "n_function_evals": 340, "elapsed_sec": 61.194754123687744}
+{"field_id": 210, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 5.628534869300899, "n_function_evals": 292, "elapsed_sec": 57.88255262374878}
+{"field_id": 210, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.330694180653553, "n_function_evals": 292, "elapsed_sec": 60.07429766654968}
+{"field_id": 210, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.5016274476845637, "n_function_evals": 304, "elapsed_sec": 62.04248332977295}
+{"field_id": 210, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 3.1348893998635172, "n_function_evals": 352, "elapsed_sec": 72.07159423828125}
+{"field_id": 210, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.2684106058863973, "n_function_evals": 316, "elapsed_sec": 64.41656303405762}
+{"field_id": 210, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.949963339247952, "n_function_evals": 304, "elapsed_sec": 62.24003195762634}
+{"field_id": 210, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 3.142156668349612, "n_function_evals": 328, "elapsed_sec": 67.31231880187988}
+{"field_id": 210, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 3.1967516446660653, "n_function_evals": 316, "elapsed_sec": 64.33736968040466}
+{"field_id": 210, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.340481206671497, "n_function_evals": 328, "elapsed_sec": 66.99351525306702}
+{"field_id": 210, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.7414733636904205, "n_function_evals": 292, "elapsed_sec": 54.692992210388184}
+{"field_id": 210, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 4.483250674315461, "n_function_evals": 268, "elapsed_sec": 48.16684627532959}
+{"field_id": 210, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.601798409832166, "n_function_evals": 256, "elapsed_sec": 47.84537053108215}
+{"field_id": 210, "replicate": 2, "axis": "swap", "level": 930, "bits_per_interior_dim": 4.455321533789609, "n_function_evals": 280, "elapsed_sec": 45.0234591960907}
+{"field_id": 227, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 3.3637390701648116, "n_function_evals": 364, "elapsed_sec": 57.81037521362305}
+{"field_id": 227, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 6.211005809956068, "n_function_evals": 280, "elapsed_sec": 44.505770683288574}
+{"field_id": 227, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.806828436844406, "n_function_evals": 292, "elapsed_sec": 46.33649134635925}
+{"field_id": 227, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.8495224303902282, "n_function_evals": 316, "elapsed_sec": 50.441673040390015}
+{"field_id": 227, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 3.4165246575543433, "n_function_evals": 364, "elapsed_sec": 58.10349440574646}
+{"field_id": 227, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.6162523249127463, "n_function_evals": 364, "elapsed_sec": 63.929797887802124}
+{"field_id": 227, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 4.511370425267491, "n_function_evals": 304, "elapsed_sec": 60.75568413734436}
+{"field_id": 227, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 3.415828688417994, "n_function_evals": 340, "elapsed_sec": 69.500741481781}
+{"field_id": 227, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 3.4848306392489743, "n_function_evals": 364, "elapsed_sec": 73.96973633766174}
+{"field_id": 227, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.6832033612839274, "n_function_evals": 304, "elapsed_sec": 62.44638228416443}
+{"field_id": 227, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 4.164838040122506, "n_function_evals": 304, "elapsed_sec": 62.004263401031494}
+{"field_id": 227, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 5.014127136935926, "n_function_evals": 304, "elapsed_sec": 62.10447978973389}
+{"field_id": 227, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.923429072390279, "n_function_evals": 292, "elapsed_sec": 59.716468811035156}
+{"field_id": 227, "replicate": 0, "axis": "swap", "level": 918, "bits_per_interior_dim": 5.113656000660448, "n_function_evals": 304, "elapsed_sec": 62.25212812423706}
+{"field_id": 227, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 3.3594034339014773, "n_function_evals": 376, "elapsed_sec": 77.00291657447815}
+{"field_id": 227, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 6.208790312485986, "n_function_evals": 304, "elapsed_sec": 62.52239108085632}
+{"field_id": 227, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.799049282219428, "n_function_evals": 304, "elapsed_sec": 62.26045083999634}
+{"field_id": 227, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.8428547794830528, "n_function_evals": 328, "elapsed_sec": 67.52676749229431}
+{"field_id": 227, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 3.4088539213835602, "n_function_evals": 376, "elapsed_sec": 76.49592423439026}
+{"field_id": 227, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.609309569267954, "n_function_evals": 340, "elapsed_sec": 69.30140137672424}
+{"field_id": 227, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 4.5063727930709785, "n_function_evals": 304, "elapsed_sec": 62.43354272842407}
+{"field_id": 227, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 3.4075443406533545, "n_function_evals": 328, "elapsed_sec": 67.16117811203003}
+{"field_id": 227, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 3.4755523993622197, "n_function_evals": 340, "elapsed_sec": 69.96326994895935}
+{"field_id": 227, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.676636769873431, "n_function_evals": 328, "elapsed_sec": 67.24055743217468}
+{"field_id": 227, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 4.15821472515215, "n_function_evals": 292, "elapsed_sec": 59.800482511520386}
+{"field_id": 227, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 5.011279546521389, "n_function_evals": 304, "elapsed_sec": 55.996384382247925}
+{"field_id": 227, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.9247247903167075, "n_function_evals": 280, "elapsed_sec": 44.49692177772522}
+{"field_id": 227, "replicate": 1, "axis": "swap", "level": 918, "bits_per_interior_dim": 5.11208436762495, "n_function_evals": 304, "elapsed_sec": 48.361672163009644}
+{"field_id": 227, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 3.3713895538484153, "n_function_evals": 412, "elapsed_sec": 65.71659636497498}
+{"field_id": 227, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 6.217734029556224, "n_function_evals": 292, "elapsed_sec": 46.95473265647888}
+{"field_id": 227, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 4.809367077142592, "n_function_evals": 304, "elapsed_sec": 48.54960751533508}
+{"field_id": 227, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 3.8557290587400326, "n_function_evals": 304, "elapsed_sec": 48.42945599555969}
+{"field_id": 227, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 3.422179625404126, "n_function_evals": 352, "elapsed_sec": 56.056719064712524}
+{"field_id": 227, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 3.619214236091592, "n_function_evals": 340, "elapsed_sec": 54.44026184082031}
+{"field_id": 227, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 4.511438203078781, "n_function_evals": 292, "elapsed_sec": 46.78300356864929}
+{"field_id": 227, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 3.420630033940939, "n_function_evals": 352, "elapsed_sec": 56.33835291862488}
+{"field_id": 227, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 3.4896062146057414, "n_function_evals": 340, "elapsed_sec": 54.447996616363525}
+{"field_id": 227, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 3.689436421665652, "n_function_evals": 304, "elapsed_sec": 48.49604344367981}
+{"field_id": 227, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 4.166850328913494, "n_function_evals": 304, "elapsed_sec": 48.36166310310364}
+{"field_id": 227, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 5.020198118074746, "n_function_evals": 292, "elapsed_sec": 47.08240461349487}
+{"field_id": 227, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 5.93243559745319, "n_function_evals": 292, "elapsed_sec": 46.5802800655365}
+{"field_id": 227, "replicate": 2, "axis": "swap", "level": 918, "bits_per_interior_dim": 5.122266973671048, "n_function_evals": 292, "elapsed_sec": 46.78428268432617}
+{"field_id": 1090, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.6928989038241752, "n_function_evals": 340, "elapsed_sec": 54.50630569458008}
+{"field_id": 1090, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.8867447060119485, "n_function_evals": 292, "elapsed_sec": 46.615057706832886}
+{"field_id": 1090, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.7998502478332885, "n_function_evals": 280, "elapsed_sec": 44.8603196144104}
+{"field_id": 1090, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7304056290163146, "n_function_evals": 316, "elapsed_sec": 50.64025807380676}
+{"field_id": 1090, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.725755892953334, "n_function_evals": 340, "elapsed_sec": 54.15369534492493}
+{"field_id": 1090, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.7595043929389729, "n_function_evals": 328, "elapsed_sec": 52.433969020843506}
+{"field_id": 1090, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.8478963576555392, "n_function_evals": 304, "elapsed_sec": 48.30536389350891}
+{"field_id": 1090, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.7100348866914188, "n_function_evals": 304, "elapsed_sec": 48.59810256958008}
+{"field_id": 1090, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.7307804391547901, "n_function_evals": 292, "elapsed_sec": 46.60644817352295}
+{"field_id": 1090, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7782917512559269, "n_function_evals": 280, "elapsed_sec": 44.6881377696991}
+{"field_id": 1090, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.8825935045009441, "n_function_evals": 292, "elapsed_sec": 46.75381302833557}
+{"field_id": 1090, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.0133928736482098, "n_function_evals": 292, "elapsed_sec": 46.6026554107666}
+{"field_id": 1090, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.1360147878874711, "n_function_evals": 292, "elapsed_sec": 46.622761487960815}
+{"field_id": 1090, "replicate": 0, "axis": "swap", "level": 21, "bits_per_interior_dim": 1.0521176686528706, "n_function_evals": 304, "elapsed_sec": 48.68149209022522}
+{"field_id": 1090, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.6860358473497375, "n_function_evals": 340, "elapsed_sec": 54.53159141540527}
+{"field_id": 1090, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.8820377195135154, "n_function_evals": 268, "elapsed_sec": 42.83424139022827}
+{"field_id": 1090, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.7930926444833124, "n_function_evals": 292, "elapsed_sec": 46.390350103378296}
+{"field_id": 1090, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7209249703437017, "n_function_evals": 304, "elapsed_sec": 48.44001388549805}
+{"field_id": 1090, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.7211227817764763, "n_function_evals": 340, "elapsed_sec": 54.314125776290894}
+{"field_id": 1090, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.7552886508487352, "n_function_evals": 328, "elapsed_sec": 52.53559947013855}
+{"field_id": 1090, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.8442365656561909, "n_function_evals": 340, "elapsed_sec": 54.3623468875885}
+{"field_id": 1090, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.7024971390704579, "n_function_evals": 316, "elapsed_sec": 50.62530708312988}
+{"field_id": 1090, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.7237388980127378, "n_function_evals": 340, "elapsed_sec": 54.3817617893219}
+{"field_id": 1090, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7690426491284589, "n_function_evals": 316, "elapsed_sec": 50.45768594741821}
+{"field_id": 1090, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.8782377856784487, "n_function_evals": 292, "elapsed_sec": 46.934319734573364}
+{"field_id": 1090, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.0056778082895708, "n_function_evals": 304, "elapsed_sec": 48.386932373046875}
+{"field_id": 1090, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.129725371910575, "n_function_evals": 280, "elapsed_sec": 44.58228945732117}
+{"field_id": 1090, "replicate": 1, "axis": "swap", "level": 21, "bits_per_interior_dim": 1.0474271197580811, "n_function_evals": 268, "elapsed_sec": 42.92341661453247}
+{"field_id": 1090, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 0.6868630828271008, "n_function_evals": 340, "elapsed_sec": 54.521416425704956}
+{"field_id": 1090, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 0.8829532649540424, "n_function_evals": 280, "elapsed_sec": 44.413862228393555}
+{"field_id": 1090, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 0.7959318202226627, "n_function_evals": 292, "elapsed_sec": 46.7176992893219}
+{"field_id": 1090, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 0.7237078028283193, "n_function_evals": 304, "elapsed_sec": 48.683302879333496}
+{"field_id": 1090, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 0.7196257819144386, "n_function_evals": 328, "elapsed_sec": 52.30536603927612}
+{"field_id": 1090, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 0.7526614714508086, "n_function_evals": 328, "elapsed_sec": 52.3748095035553}
+{"field_id": 1090, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 0.8376273416007123, "n_function_evals": 304, "elapsed_sec": 48.468806743621826}
+{"field_id": 1090, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 0.701741056014522, "n_function_evals": 340, "elapsed_sec": 54.14845156669617}
+{"field_id": 1090, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 0.7231426155153285, "n_function_evals": 304, "elapsed_sec": 48.434877157211304}
+{"field_id": 1090, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 0.7708227011169434, "n_function_evals": 316, "elapsed_sec": 50.23262858390808}
+{"field_id": 1090, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 0.8796364199078918, "n_function_evals": 292, "elapsed_sec": 46.2479043006897}
+{"field_id": 1090, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 1.0083121445581877, "n_function_evals": 292, "elapsed_sec": 46.821815967559814}
+{"field_id": 1090, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 1.1301625490955596, "n_function_evals": 292, "elapsed_sec": 46.70524859428406}
+{"field_id": 1090, "replicate": 2, "axis": "swap", "level": 21, "bits_per_interior_dim": 1.0472319631918001, "n_function_evals": 292, "elapsed_sec": 46.533971309661865}
+{"field_id": 1407, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.2970544616786257, "n_function_evals": 340, "elapsed_sec": 54.197572469711304}
+{"field_id": 1407, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.9858501128727022, "n_function_evals": 316, "elapsed_sec": 50.60535955429077}
+{"field_id": 1407, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.6152763996253998, "n_function_evals": 292, "elapsed_sec": 46.912137031555176}
+{"field_id": 1407, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.4100577585206266, "n_function_evals": 304, "elapsed_sec": 48.5793023109436}
+{"field_id": 1407, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.362094240002695, "n_function_evals": 364, "elapsed_sec": 58.13235378265381}
+{"field_id": 1407, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.454036758061786, "n_function_evals": 316, "elapsed_sec": 50.58307480812073}
+{"field_id": 1407, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.7222349552015177, "n_function_evals": 328, "elapsed_sec": 52.546748876571655}
+{"field_id": 1407, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.3212152577476515, "n_function_evals": 328, "elapsed_sec": 52.56289505958557}
+{"field_id": 1407, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.3540524598972354, "n_function_evals": 316, "elapsed_sec": 50.59447526931763}
+{"field_id": 1407, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.4961215484522772, "n_function_evals": 280, "elapsed_sec": 44.94796276092529}
+{"field_id": 1407, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.7249040671044387, "n_function_evals": 304, "elapsed_sec": 48.686503648757935}
+{"field_id": 1407, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.2484711773445603, "n_function_evals": 304, "elapsed_sec": 48.62114477157593}
+{"field_id": 1407, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.909298304906718, "n_function_evals": 280, "elapsed_sec": 44.56323456764221}
+{"field_id": 1407, "replicate": 0, "axis": "swap", "level": 33, "bits_per_interior_dim": 3.321021924712563, "n_function_evals": 268, "elapsed_sec": 42.65497446060181}
+{"field_id": 1407, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.3007538128204363, "n_function_evals": 364, "elapsed_sec": 58.008734941482544}
+{"field_id": 1407, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.9883006546791133, "n_function_evals": 292, "elapsed_sec": 46.58631110191345}
+{"field_id": 1407, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.6171505965367323, "n_function_evals": 280, "elapsed_sec": 44.80481171607971}
+{"field_id": 1407, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.412428683763588, "n_function_evals": 304, "elapsed_sec": 48.40329122543335}
+{"field_id": 1407, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.3678479172162714, "n_function_evals": 352, "elapsed_sec": 56.332849740982056}
+{"field_id": 1407, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.4619288869740148, "n_function_evals": 328, "elapsed_sec": 52.27042508125305}
+{"field_id": 1407, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.7256777425603873, "n_function_evals": 304, "elapsed_sec": 48.64186906814575}
+{"field_id": 1407, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.3245766739671117, "n_function_evals": 340, "elapsed_sec": 54.21561050415039}
+{"field_id": 1407, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.3608418296505955, "n_function_evals": 316, "elapsed_sec": 50.12506079673767}
+{"field_id": 1407, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.4999296896615197, "n_function_evals": 304, "elapsed_sec": 48.64181566238403}
+{"field_id": 1407, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.7279468666151234, "n_function_evals": 268, "elapsed_sec": 42.95209550857544}
+{"field_id": 1407, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.257952647008225, "n_function_evals": 280, "elapsed_sec": 44.86358904838562}
+{"field_id": 1407, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.9117461332349546, "n_function_evals": 280, "elapsed_sec": 44.9864718914032}
+{"field_id": 1407, "replicate": 1, "axis": "swap", "level": 33, "bits_per_interior_dim": 3.3166780993011717, "n_function_evals": 280, "elapsed_sec": 44.76834464073181}
+{"field_id": 1407, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.3058178332202521, "n_function_evals": 364, "elapsed_sec": 58.20948362350464}
+{"field_id": 1407, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 1.9977833472242414, "n_function_evals": 280, "elapsed_sec": 44.89613485336304}
+{"field_id": 1407, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.6246104805153445, "n_function_evals": 280, "elapsed_sec": 44.84978437423706}
+{"field_id": 1407, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.4179409955647988, "n_function_evals": 328, "elapsed_sec": 52.457550048828125}
+{"field_id": 1407, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.3734800423755933, "n_function_evals": 316, "elapsed_sec": 50.50342130661011}
+{"field_id": 1407, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.4669921860570387, "n_function_evals": 328, "elapsed_sec": 52.49346399307251}
+{"field_id": 1407, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.7347899995189635, "n_function_evals": 340, "elapsed_sec": 54.43591523170471}
+{"field_id": 1407, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.3291214017836146, "n_function_evals": 328, "elapsed_sec": 52.56590723991394}
+{"field_id": 1407, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.3638278353026343, "n_function_evals": 328, "elapsed_sec": 52.64439916610718}
+{"field_id": 1407, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.505603450746358, "n_function_evals": 280, "elapsed_sec": 44.86041259765625}
+{"field_id": 1407, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.7362437187655564, "n_function_evals": 292, "elapsed_sec": 46.713842153549194}
+{"field_id": 1407, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.2631791491723083, "n_function_evals": 280, "elapsed_sec": 45.0376079082489}
+{"field_id": 1407, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 2.9198684800472554, "n_function_evals": 280, "elapsed_sec": 44.845218658447266}
+{"field_id": 1407, "replicate": 2, "axis": "swap", "level": 33, "bits_per_interior_dim": 3.3244794979328076, "n_function_evals": 280, "elapsed_sec": 44.736412048339844}
+{"field_id": 1439, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.3253222381180063, "n_function_evals": 328, "elapsed_sec": 52.50319504737854}
+{"field_id": 1439, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 2.3334945499512743, "n_function_evals": 280, "elapsed_sec": 44.52768564224243}
+{"field_id": 1439, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.7349740473188107, "n_function_evals": 280, "elapsed_sec": 44.966893434524536}
+{"field_id": 1439, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.4667600757790584, "n_function_evals": 328, "elapsed_sec": 52.54617977142334}
+{"field_id": 1439, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.396136300764367, "n_function_evals": 328, "elapsed_sec": 52.33971619606018}
+{"field_id": 1439, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.47891603858317, "n_function_evals": 328, "elapsed_sec": 52.38315033912659}
+{"field_id": 1439, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.7359791516137197, "n_function_evals": 340, "elapsed_sec": 54.110512018203735}
+{"field_id": 1439, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.3423607616797817, "n_function_evals": 316, "elapsed_sec": 50.522881269454956}
+{"field_id": 1439, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.3763549992964306, "n_function_evals": 328, "elapsed_sec": 52.217294216156006}
+{"field_id": 1439, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.4645940550198255, "n_function_evals": 316, "elapsed_sec": 50.64993929862976}
+{"field_id": 1439, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.7165449513817959, "n_function_evals": 268, "elapsed_sec": 43.070537090301514}
+{"field_id": 1439, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.225673484078316, "n_function_evals": 292, "elapsed_sec": 46.36745643615723}
+{"field_id": 1439, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.0411287109675893, "n_function_evals": 316, "elapsed_sec": 50.38274645805359}
+{"field_id": 1439, "replicate": 0, "axis": "swap", "level": 135, "bits_per_interior_dim": 3.626319687918024, "n_function_evals": 304, "elapsed_sec": 48.71582818031311}
+{"field_id": 1439, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.321826418050084, "n_function_evals": 328, "elapsed_sec": 52.358492612838745}
+{"field_id": 1439, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 2.3306902234215174, "n_function_evals": 292, "elapsed_sec": 46.55024981498718}
+{"field_id": 1439, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.7375104891844626, "n_function_evals": 280, "elapsed_sec": 44.77310347557068}
+{"field_id": 1439, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.4667653075690772, "n_function_evals": 304, "elapsed_sec": 48.68094038963318}
+{"field_id": 1439, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.3893211915341734, "n_function_evals": 328, "elapsed_sec": 52.4546856880188}
+{"field_id": 1439, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.4681890386861869, "n_function_evals": 328, "elapsed_sec": 52.57299256324768}
+{"field_id": 1439, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.7254101600786664, "n_function_evals": 316, "elapsed_sec": 50.64944386482239}
+{"field_id": 1439, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.3433351605257766, "n_function_evals": 304, "elapsed_sec": 48.43764662742615}
+{"field_id": 1439, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.3758396507420354, "n_function_evals": 316, "elapsed_sec": 50.45238161087036}
+{"field_id": 1439, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.4624798880508905, "n_function_evals": 316, "elapsed_sec": 50.458170652389526}
+{"field_id": 1439, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.7166138307399141, "n_function_evals": 292, "elapsed_sec": 46.7018084526062}
+{"field_id": 1439, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.2243840877944394, "n_function_evals": 292, "elapsed_sec": 46.65422868728638}
+{"field_id": 1439, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.0411407134835704, "n_function_evals": 292, "elapsed_sec": 46.774638175964355}
+{"field_id": 1439, "replicate": 1, "axis": "swap", "level": 135, "bits_per_interior_dim": 3.6271386657461093, "n_function_evals": 292, "elapsed_sec": 46.78735876083374}
+{"field_id": 1439, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.3128202230676729, "n_function_evals": 340, "elapsed_sec": 54.303274154663086}
+{"field_id": 1439, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 2.325646046325873, "n_function_evals": 292, "elapsed_sec": 46.86077833175659}
+{"field_id": 1439, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 1.7285146140672827, "n_function_evals": 292, "elapsed_sec": 46.44807982444763}
+{"field_id": 1439, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 1.460117252896449, "n_function_evals": 292, "elapsed_sec": 46.685545444488525}
+{"field_id": 1439, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.3810102538015872, "n_function_evals": 328, "elapsed_sec": 52.33069705963135}
+{"field_id": 1439, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 1.46255646982121, "n_function_evals": 316, "elapsed_sec": 50.427489280700684}
+{"field_id": 1439, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 1.7156256662508598, "n_function_evals": 328, "elapsed_sec": 52.54178285598755}
+{"field_id": 1439, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.3343142832182293, "n_function_evals": 340, "elapsed_sec": 54.598955154418945}
+{"field_id": 1439, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.3666600260125448, "n_function_evals": 340, "elapsed_sec": 54.398269176483154}
+{"field_id": 1439, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 1.454643981869935, "n_function_evals": 292, "elapsed_sec": 46.59323310852051}
+{"field_id": 1439, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 1.7102150141470254, "n_function_evals": 280, "elapsed_sec": 44.79780340194702}
+{"field_id": 1439, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.2193227571458856, "n_function_evals": 268, "elapsed_sec": 42.52741980552673}
+{"field_id": 1439, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.0343900057055393, "n_function_evals": 292, "elapsed_sec": 46.67333912849426}
+{"field_id": 1439, "replicate": 2, "axis": "swap", "level": 135, "bits_per_interior_dim": 3.6205533606062126, "n_function_evals": 292, "elapsed_sec": 46.74409747123718}
+{"field_id": 274, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.8018429534866536, "n_function_evals": 352, "elapsed_sec": 56.537461280822754}
+{"field_id": 274, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.264828454346388, "n_function_evals": 292, "elapsed_sec": 46.760119676589966}
+{"field_id": 274, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.430171408993491, "n_function_evals": 304, "elapsed_sec": 48.46000385284424}
+{"field_id": 274, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.0097823235237313, "n_function_evals": 316, "elapsed_sec": 50.58585572242737}
+{"field_id": 274, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.9293102982127108, "n_function_evals": 340, "elapsed_sec": 54.5534131526947}
+{"field_id": 274, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.0587360768936738, "n_function_evals": 340, "elapsed_sec": 54.487990617752075}
+{"field_id": 274, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.3477187826912234, "n_function_evals": 328, "elapsed_sec": 52.28516864776611}
+{"field_id": 274, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.831352726236835, "n_function_evals": 316, "elapsed_sec": 50.469229221343994}
+{"field_id": 274, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.880817370835563, "n_function_evals": 304, "elapsed_sec": 48.77216124534607}
+{"field_id": 274, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.0010853111412903, "n_function_evals": 328, "elapsed_sec": 52.40238285064697}
+{"field_id": 274, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.2553782205384887, "n_function_evals": 292, "elapsed_sec": 46.82636332511902}
+{"field_id": 274, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.7505519463890193, "n_function_evals": 268, "elapsed_sec": 42.958905935287476}
+{"field_id": 274, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.5509405532636324, "n_function_evals": 280, "elapsed_sec": 44.47040510177612}
+{"field_id": 274, "replicate": 0, "axis": "swap", "level": 1443, "bits_per_interior_dim": 4.503888213887202, "n_function_evals": 268, "elapsed_sec": 42.74218153953552}
+{"field_id": 274, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.806261327978373, "n_function_evals": 316, "elapsed_sec": 50.70078158378601}
+{"field_id": 274, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.271569710176293, "n_function_evals": 292, "elapsed_sec": 46.800968170166016}
+{"field_id": 274, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.4376141687032717, "n_function_evals": 304, "elapsed_sec": 48.64937210083008}
+{"field_id": 274, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.0149052732926602, "n_function_evals": 304, "elapsed_sec": 48.842976808547974}
+{"field_id": 274, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.9362566192388826, "n_function_evals": 340, "elapsed_sec": 54.55435585975647}
+{"field_id": 274, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.0683386308915783, "n_function_evals": 340, "elapsed_sec": 54.3780403137207}
+{"field_id": 274, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.3583046661879403, "n_function_evals": 316, "elapsed_sec": 50.72642922401428}
+{"field_id": 274, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.8369543781202544, "n_function_evals": 340, "elapsed_sec": 54.66421151161194}
+{"field_id": 274, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.8872421574869667, "n_function_evals": 304, "elapsed_sec": 48.69121289253235}
+{"field_id": 274, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.0087925379054123, "n_function_evals": 304, "elapsed_sec": 48.427709102630615}
+{"field_id": 274, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.267193706477044, "n_function_evals": 292, "elapsed_sec": 46.50537848472595}
+{"field_id": 274, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.7573794574411057, "n_function_evals": 280, "elapsed_sec": 44.57494902610779}
+{"field_id": 274, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.559435698506171, "n_function_evals": 280, "elapsed_sec": 44.64670491218567}
+{"field_id": 274, "replicate": 1, "axis": "swap", "level": 1443, "bits_per_interior_dim": 4.512576075089908, "n_function_evals": 280, "elapsed_sec": 44.61179733276367}
+{"field_id": 274, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 1.8127579732819414, "n_function_evals": 340, "elapsed_sec": 54.02212142944336}
+{"field_id": 274, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 3.2780923633842063, "n_function_evals": 292, "elapsed_sec": 46.92016530036926}
+{"field_id": 274, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 2.438279301169094, "n_function_evals": 292, "elapsed_sec": 46.56207799911499}
+{"field_id": 274, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.0192086786805303, "n_function_evals": 304, "elapsed_sec": 48.447181940078735}
+{"field_id": 274, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 1.942855027079229, "n_function_evals": 328, "elapsed_sec": 52.54661560058594}
+{"field_id": 274, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.0736306756643623, "n_function_evals": 316, "elapsed_sec": 50.552172899246216}
+{"field_id": 274, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 2.3603876981599874, "n_function_evals": 316, "elapsed_sec": 50.2723433971405}
+{"field_id": 274, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 1.8445088923265411, "n_function_evals": 364, "elapsed_sec": 58.39698386192322}
+{"field_id": 274, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 1.8954388955261152, "n_function_evals": 340, "elapsed_sec": 53.945399045944214}
+{"field_id": 274, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.015907299597123, "n_function_evals": 304, "elapsed_sec": 48.886674880981445}
+{"field_id": 274, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 2.271793633946014, "n_function_evals": 304, "elapsed_sec": 48.73425316810608}
+{"field_id": 274, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 2.761014924375797, "n_function_evals": 292, "elapsed_sec": 46.46150493621826}
+{"field_id": 274, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 3.5636943657850337, "n_function_evals": 268, "elapsed_sec": 42.7438702583313}
+{"field_id": 274, "replicate": 2, "axis": "swap", "level": 1443, "bits_per_interior_dim": 4.514112869354842, "n_function_evals": 280, "elapsed_sec": 44.951000928878784}
+{"field_id": 1006, "replicate": 0, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.5126771488382156, "n_function_evals": 328, "elapsed_sec": 52.4831485748291}
+{"field_id": 1006, "replicate": 0, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 4.921800179640796, "n_function_evals": 268, "elapsed_sec": 42.680378913879395}
+{"field_id": 1006, "replicate": 0, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.6188693264435603, "n_function_evals": 292, "elapsed_sec": 46.74846696853638}
+{"field_id": 1006, "replicate": 0, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.8648254559071678, "n_function_evals": 304, "elapsed_sec": 48.48753619194031}
+{"field_id": 1006, "replicate": 0, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.594758421102429, "n_function_evals": 364, "elapsed_sec": 57.800121545791626}
+{"field_id": 1006, "replicate": 0, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.7152142225805806, "n_function_evals": 376, "elapsed_sec": 60.19130563735962}
+{"field_id": 1006, "replicate": 0, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.196808551346779, "n_function_evals": 328, "elapsed_sec": 52.14776039123535}
+{"field_id": 1006, "replicate": 0, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.5569141328113454, "n_function_evals": 352, "elapsed_sec": 55.6194794178009}
+{"field_id": 1006, "replicate": 0, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.6120095743092238, "n_function_evals": 340, "elapsed_sec": 54.31225848197937}
+{"field_id": 1006, "replicate": 0, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.7597963390690734, "n_function_evals": 304, "elapsed_sec": 48.499489545822144}
+{"field_id": 1006, "replicate": 0, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.1462610387049676, "n_function_evals": 304, "elapsed_sec": 48.64581871032715}
+{"field_id": 1006, "replicate": 0, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.862462659415217, "n_function_evals": 292, "elapsed_sec": 46.81191420555115}
+{"field_id": 1006, "replicate": 0, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.868917026025606, "n_function_evals": 268, "elapsed_sec": 42.7844603061676}
+{"field_id": 1006, "replicate": 0, "axis": "swap", "level": 1298, "bits_per_interior_dim": 4.25944315826612, "n_function_evals": 268, "elapsed_sec": 42.98519277572632}
+{"field_id": 1006, "replicate": 1, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.511723683698355, "n_function_evals": 328, "elapsed_sec": 52.510788679122925}
+{"field_id": 1006, "replicate": 1, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 4.923994566856562, "n_function_evals": 292, "elapsed_sec": 46.57733988761902}
+{"field_id": 1006, "replicate": 1, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.6201900974423977, "n_function_evals": 316, "elapsed_sec": 50.44089412689209}
+{"field_id": 1006, "replicate": 1, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.8665210811743296, "n_function_evals": 316, "elapsed_sec": 50.5768039226532}
+{"field_id": 1006, "replicate": 1, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.593363564582587, "n_function_evals": 340, "elapsed_sec": 54.14481043815613}
+{"field_id": 1006, "replicate": 1, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.7169670053377653, "n_function_evals": 316, "elapsed_sec": 50.52951717376709}
+{"field_id": 1006, "replicate": 1, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.202631268450734, "n_function_evals": 316, "elapsed_sec": 50.443846702575684}
+{"field_id": 1006, "replicate": 1, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.5538763263032984, "n_function_evals": 340, "elapsed_sec": 54.49651479721069}
+{"field_id": 1006, "replicate": 1, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.6117083576618323, "n_function_evals": 316, "elapsed_sec": 50.426743030548096}
+{"field_id": 1006, "replicate": 1, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.756248766904135, "n_function_evals": 304, "elapsed_sec": 48.37374997138977}
+{"field_id": 1006, "replicate": 1, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.1422162945173824, "n_function_evals": 304, "elapsed_sec": 48.62783241271973}
+{"field_id": 1006, "replicate": 1, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.8613813103345977, "n_function_evals": 280, "elapsed_sec": 44.66863679885864}
+{"field_id": 1006, "replicate": 1, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.867664380247994, "n_function_evals": 280, "elapsed_sec": 44.50471115112305}
+{"field_id": 1006, "replicate": 1, "axis": "swap", "level": 1298, "bits_per_interior_dim": 4.263603740029452, "n_function_evals": 292, "elapsed_sec": 46.44173192977905}
+{"field_id": 1006, "replicate": 2, "axis": "baseline", "level": 1.0, "bits_per_interior_dim": 2.511436913939263, "n_function_evals": 340, "elapsed_sec": 54.067827463150024}
+{"field_id": 1006, "replicate": 2, "axis": "magnitude", "level": 0.25, "bits_per_interior_dim": 4.927309465799044, "n_function_evals": 280, "elapsed_sec": 44.80998611450195}
+{"field_id": 1006, "replicate": 2, "axis": "magnitude", "level": 0.5, "bits_per_interior_dim": 3.6209457339162103, "n_function_evals": 280, "elapsed_sec": 44.91081118583679}
+{"field_id": 1006, "replicate": 2, "axis": "magnitude", "level": 0.75, "bits_per_interior_dim": 2.866124064785224, "n_function_evals": 316, "elapsed_sec": 50.58531141281128}
+{"field_id": 1006, "replicate": 2, "axis": "magnitude", "level": 1.5, "bits_per_interior_dim": 2.5935804435922263, "n_function_evals": 352, "elapsed_sec": 55.91889953613281}
+{"field_id": 1006, "replicate": 2, "axis": "magnitude", "level": 2.0, "bits_per_interior_dim": 2.71760653510979, "n_function_evals": 352, "elapsed_sec": 56.37173509597778}
+{"field_id": 1006, "replicate": 2, "axis": "magnitude", "level": 4.0, "bits_per_interior_dim": 3.204100784755956, "n_function_evals": 304, "elapsed_sec": 48.532352685928345}
+{"field_id": 1006, "replicate": 2, "axis": "shift", "level": 1, "bits_per_interior_dim": 2.5561519661346535, "n_function_evals": 328, "elapsed_sec": 52.27637457847595}
+{"field_id": 1006, "replicate": 2, "axis": "shift", "level": 2, "bits_per_interior_dim": 2.6134857804744227, "n_function_evals": 340, "elapsed_sec": 54.40376114845276}
+{"field_id": 1006, "replicate": 2, "axis": "shift", "level": 4, "bits_per_interior_dim": 2.764516558087356, "n_function_evals": 316, "elapsed_sec": 50.67027759552002}
+{"field_id": 1006, "replicate": 2, "axis": "shift", "level": 8, "bits_per_interior_dim": 3.1478812208038875, "n_function_evals": 304, "elapsed_sec": 48.487350940704346}
+{"field_id": 1006, "replicate": 2, "axis": "shift", "level": 16, "bits_per_interior_dim": 3.8650142637810814, "n_function_evals": 304, "elapsed_sec": 48.660101652145386}
+{"field_id": 1006, "replicate": 2, "axis": "shift", "level": 32, "bits_per_interior_dim": 4.872419482586958, "n_function_evals": 292, "elapsed_sec": 46.74424433708191}
+{"field_id": 1006, "replicate": 2, "axis": "swap", "level": 1298, "bits_per_interior_dim": 4.269463061069588, "n_function_evals": 292, "elapsed_sec": 46.279866218566895}
+{"field_id": 21, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.6768, "elapsed_sec": 33.3}
+{"field_id": 21, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.6504, "elapsed_sec": 25.3}
+{"field_id": 21, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.6818, "elapsed_sec": 28.1}
+{"field_id": 21, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.6537, "elapsed_sec": 26.1}
+{"field_id": 21, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.6817, "elapsed_sec": 29.6}
+{"field_id": 21, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.6651, "elapsed_sec": 23.5}
+{"field_id": 21, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.6526, "elapsed_sec": 24.4}
+{"field_id": 21, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.7074, "elapsed_sec": 26.5}
+{"field_id": 1127, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.9274, "elapsed_sec": 26.6}
+{"field_id": 1127, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.9133, "elapsed_sec": 27.5}
+{"field_id": 1127, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.9089, "elapsed_sec": 30.2}
+{"field_id": 1127, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.9685, "elapsed_sec": 38.0}
+{"field_id": 1127, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.9334, "elapsed_sec": 30.2}
+{"field_id": 1127, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.9211, "elapsed_sec": 27.4}
+{"field_id": 1127, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.9164, "elapsed_sec": 27.4}
+{"field_id": 1127, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.9724, "elapsed_sec": 27.5}
+{"field_id": 1127, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.9313, "elapsed_sec": 27.4}
+{"field_id": 1127, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.9191, "elapsed_sec": 29.7}
+{"field_id": 1127, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.9132, "elapsed_sec": 28.0}
+{"field_id": 1127, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.9711, "elapsed_sec": 27.5}
+{"field_id": 372, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.0822, "elapsed_sec": 37.9}
+{"field_id": 372, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.0658, "elapsed_sec": 26.5}
+{"field_id": 372, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.064, "elapsed_sec": 26.5}
+{"field_id": 372, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.1628, "elapsed_sec": 24.6}
+{"field_id": 372, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.0936, "elapsed_sec": 27.5}
+{"field_id": 372, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.0766, "elapsed_sec": 28.4}
+{"field_id": 372, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.073, "elapsed_sec": 29.3}
+{"field_id": 372, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.1746, "elapsed_sec": 25.5}
+{"field_id": 372, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.0832, "elapsed_sec": 38.6}
+{"field_id": 372, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.0658, "elapsed_sec": 38.2}
+{"field_id": 372, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.0641, "elapsed_sec": 42.5}
+{"field_id": 372, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.1641, "elapsed_sec": 38.5}
+{"field_id": 34, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.1923, "elapsed_sec": 40.9}
+{"field_id": 34, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.1746, "elapsed_sec": 39.4}
+{"field_id": 34, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.164, "elapsed_sec": 41.3}
+{"field_id": 34, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.2423, "elapsed_sec": 39.2}
+{"field_id": 34, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.1997, "elapsed_sec": 39.7}
+{"field_id": 34, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.1812, "elapsed_sec": 43.9}
+{"field_id": 34, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.1705, "elapsed_sec": 41.0}
+{"field_id": 34, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.2489, "elapsed_sec": 40.0}
+{"field_id": 34, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.1986, "elapsed_sec": 39.1}
+{"field_id": 34, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.1806, "elapsed_sec": 39.9}
+{"field_id": 34, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.1681, "elapsed_sec": 39.2}
+{"field_id": 34, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.2458, "elapsed_sec": 41.4}
+{"field_id": 777, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.926, "elapsed_sec": 41.2}
+{"field_id": 777, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.9025, "elapsed_sec": 40.9}
+{"field_id": 777, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.8957, "elapsed_sec": 42.7}
+{"field_id": 777, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.0413, "elapsed_sec": 41.4}
+{"field_id": 777, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.9162, "elapsed_sec": 41.7}
+{"field_id": 777, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.8909, "elapsed_sec": 45.7}
+{"field_id": 777, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.8859, "elapsed_sec": 41.0}
+{"field_id": 777, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.032, "elapsed_sec": 42.8}
+{"field_id": 777, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.9258, "elapsed_sec": 39.8}
+{"field_id": 777, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.8985, "elapsed_sec": 48.3}
+{"field_id": 777, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.8928, "elapsed_sec": 40.9}
+{"field_id": 777, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.0374, "elapsed_sec": 43.6}
+{"field_id": 447, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.7175, "elapsed_sec": 41.1}
+{"field_id": 447, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.7056, "elapsed_sec": 35.3}
+{"field_id": 447, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.6988, "elapsed_sec": 41.0}
+{"field_id": 447, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.7587, "elapsed_sec": 38.3}
+{"field_id": 447, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.7065, "elapsed_sec": 41.4}
+{"field_id": 447, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.6948, "elapsed_sec": 38.2}
+{"field_id": 447, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.6889, "elapsed_sec": 33.5}
+{"field_id": 447, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.7504, "elapsed_sec": 38.2}
+{"field_id": 447, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.7128, "elapsed_sec": 39.8}
+{"field_id": 447, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.6985, "elapsed_sec": 41.1}
+{"field_id": 447, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.6938, "elapsed_sec": 35.4}
+{"field_id": 447, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.7563, "elapsed_sec": 39.5}
+{"field_id": 91, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.2089, "elapsed_sec": 39.4}
+{"field_id": 91, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.1857, "elapsed_sec": 42.6}
+{"field_id": 91, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.1803, "elapsed_sec": 39.2}
+{"field_id": 91, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.2892, "elapsed_sec": 39.9}
+{"field_id": 91, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.2126, "elapsed_sec": 38.1}
+{"field_id": 91, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.1889, "elapsed_sec": 41.0}
+{"field_id": 91, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.1832, "elapsed_sec": 41.2}
+{"field_id": 91, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.2927, "elapsed_sec": 39.5}
+{"field_id": 91, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.2058, "elapsed_sec": 41.2}
+{"field_id": 91, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.184, "elapsed_sec": 38.2}
+{"field_id": 91, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.1793, "elapsed_sec": 42.3}
+{"field_id": 91, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.2856, "elapsed_sec": 41.5}
+{"field_id": 1203, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.6415, "elapsed_sec": 38.0}
+{"field_id": 1203, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.6215, "elapsed_sec": 39.4}
+{"field_id": 1203, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.6184, "elapsed_sec": 39.9}
+{"field_id": 1203, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.763, "elapsed_sec": 42.3}
+{"field_id": 1203, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.6407, "elapsed_sec": 38.4}
+{"field_id": 1203, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.6206, "elapsed_sec": 42.2}
+{"field_id": 1203, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.6191, "elapsed_sec": 36.8}
+{"field_id": 1203, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.7646, "elapsed_sec": 40.8}
+{"field_id": 1203, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.6348, "elapsed_sec": 39.5}
+{"field_id": 1203, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.6157, "elapsed_sec": 39.6}
+{"field_id": 1203, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.6138, "elapsed_sec": 39.8}
+{"field_id": 1203, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.7583, "elapsed_sec": 44.1}
+{"field_id": 115, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.6431, "elapsed_sec": 34.9}
+{"field_id": 115, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.6257, "elapsed_sec": 39.9}
+{"field_id": 115, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.6255, "elapsed_sec": 45.5}
+{"field_id": 115, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.7311, "elapsed_sec": 43.9}
+{"field_id": 115, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.6393, "elapsed_sec": 39.9}
+{"field_id": 115, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.6232, "elapsed_sec": 40.9}
+{"field_id": 115, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.6227, "elapsed_sec": 38.1}
+{"field_id": 115, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.7279, "elapsed_sec": 42.8}
+{"field_id": 115, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.6389, "elapsed_sec": 40.9}
+{"field_id": 115, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.6211, "elapsed_sec": 38.2}
+{"field_id": 115, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.6229, "elapsed_sec": 42.7}
+{"field_id": 115, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.7295, "elapsed_sec": 41.0}
+{"field_id": 150, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.6709, "elapsed_sec": 39.7}
+{"field_id": 150, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.6411, "elapsed_sec": 39.5}
+{"field_id": 150, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.6328, "elapsed_sec": 45.4}
+{"field_id": 150, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.768, "elapsed_sec": 42.4}
+{"field_id": 150, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.6602, "elapsed_sec": 38.1}
+{"field_id": 150, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.631, "elapsed_sec": 41.4}
+{"field_id": 150, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.6209, "elapsed_sec": 42.4}
+{"field_id": 150, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.7575, "elapsed_sec": 44.2}
+{"field_id": 150, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.6714, "elapsed_sec": 39.5}
+{"field_id": 150, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.6421, "elapsed_sec": 45.6}
+{"field_id": 150, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.6325, "elapsed_sec": 44.0}
+{"field_id": 150, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.7667, "elapsed_sec": 44.4}
+{"field_id": 271, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.8283, "elapsed_sec": 43.8}
+{"field_id": 271, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.8089, "elapsed_sec": 42.7}
+{"field_id": 271, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.8132, "elapsed_sec": 43.9}
+{"field_id": 271, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.9467, "elapsed_sec": 38.2}
+{"field_id": 271, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.8331, "elapsed_sec": 40.9}
+{"field_id": 271, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.815, "elapsed_sec": 38.0}
+{"field_id": 271, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.8158, "elapsed_sec": 38.0}
+{"field_id": 271, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.9484, "elapsed_sec": 40.0}
+{"field_id": 271, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.8201, "elapsed_sec": 39.5}
+{"field_id": 271, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.8034, "elapsed_sec": 41.4}
+{"field_id": 271, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.8071, "elapsed_sec": 39.4}
+{"field_id": 271, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.9405, "elapsed_sec": 36.9}
+{"field_id": 993, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.5345, "elapsed_sec": 44.3}
+{"field_id": 993, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.5034, "elapsed_sec": 39.7}
+{"field_id": 993, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.4842, "elapsed_sec": 47.1}
+{"field_id": 993, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.6302, "elapsed_sec": 42.4}
+{"field_id": 993, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.5325, "elapsed_sec": 41.5}
+{"field_id": 993, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.503, "elapsed_sec": 41.0}
+{"field_id": 993, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.4857, "elapsed_sec": 42.6}
+{"field_id": 993, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.6319, "elapsed_sec": 41.0}
+{"field_id": 993, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.5292, "elapsed_sec": 39.5}
+{"field_id": 993, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.4993, "elapsed_sec": 41.3}
+{"field_id": 993, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.4819, "elapsed_sec": 41.1}
+{"field_id": 993, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.63, "elapsed_sec": 45.6}
+{"field_id": 548, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.8635, "elapsed_sec": 41.0}
+{"field_id": 548, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.8221, "elapsed_sec": 40.0}
+{"field_id": 548, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.787, "elapsed_sec": 45.6}
+{"field_id": 548, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.9331, "elapsed_sec": 44.1}
+{"field_id": 548, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.8717, "elapsed_sec": 41.5}
+{"field_id": 548, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.8297, "elapsed_sec": 43.9}
+{"field_id": 548, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.7959, "elapsed_sec": 50.1}
+{"field_id": 548, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.9403, "elapsed_sec": 45.7}
+{"field_id": 548, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.8705, "elapsed_sec": 39.3}
+{"field_id": 548, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.8276, "elapsed_sec": 41.4}
+{"field_id": 548, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.7951, "elapsed_sec": 48.3}
+{"field_id": 548, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.9424, "elapsed_sec": 45.5}
+{"field_id": 210, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 3.0832, "elapsed_sec": 41.3}
+{"field_id": 210, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 3.0451, "elapsed_sec": 39.7}
+{"field_id": 210, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 3.0152, "elapsed_sec": 44.1}
+{"field_id": 210, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 3.1422, "elapsed_sec": 41.0}
+{"field_id": 210, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 3.0823, "elapsed_sec": 42.8}
+{"field_id": 210, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 3.0431, "elapsed_sec": 41.1}
+{"field_id": 210, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 3.0126, "elapsed_sec": 45.4}
+{"field_id": 210, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 3.1425, "elapsed_sec": 42.5}
+{"field_id": 210, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 3.0856, "elapsed_sec": 40.3}
+{"field_id": 210, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 3.0465, "elapsed_sec": 38.3}
+{"field_id": 210, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 3.017, "elapsed_sec": 44.0}
+{"field_id": 210, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 3.1459, "elapsed_sec": 41.6}
+{"field_id": 227, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 3.3491, "elapsed_sec": 39.6}
+{"field_id": 227, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 3.3172, "elapsed_sec": 43.9}
+{"field_id": 227, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 3.297, "elapsed_sec": 44.0}
+{"field_id": 227, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 3.4383, "elapsed_sec": 46.9}
+{"field_id": 227, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 3.3445, "elapsed_sec": 44.2}
+{"field_id": 227, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 3.3125, "elapsed_sec": 50.2}
+{"field_id": 227, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 3.293, "elapsed_sec": 46.7}
+{"field_id": 227, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 3.4363, "elapsed_sec": 48.6}
+{"field_id": 227, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 3.3563, "elapsed_sec": 47.2}
+{"field_id": 227, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 3.3256, "elapsed_sec": 44.4}
+{"field_id": 227, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 3.3058, "elapsed_sec": 45.6}
+{"field_id": 227, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 3.4484, "elapsed_sec": 46.7}
+{"field_id": 1090, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.6848, "elapsed_sec": 41.5}
+{"field_id": 1090, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.6722, "elapsed_sec": 39.6}
+{"field_id": 1090, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.67, "elapsed_sec": 38.6}
+{"field_id": 1090, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.7366, "elapsed_sec": 35.3}
+{"field_id": 1090, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.6784, "elapsed_sec": 38.2}
+{"field_id": 1090, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.6658, "elapsed_sec": 41.2}
+{"field_id": 1090, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.6629, "elapsed_sec": 36.7}
+{"field_id": 1090, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.7285, "elapsed_sec": 38.6}
+{"field_id": 1090, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 0.6789, "elapsed_sec": 38.6}
+{"field_id": 1090, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.6656, "elapsed_sec": 36.5}
+{"field_id": 1090, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 0.6654, "elapsed_sec": 38.0}
+{"field_id": 1090, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.7323, "elapsed_sec": 37.1}
+{"field_id": 1407, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.2866, "elapsed_sec": 40.9}
+{"field_id": 1407, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.2662, "elapsed_sec": 41.0}
+{"field_id": 1407, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.2603, "elapsed_sec": 41.1}
+{"field_id": 1407, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.3718, "elapsed_sec": 38.2}
+{"field_id": 1407, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.2901, "elapsed_sec": 39.7}
+{"field_id": 1407, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.2697, "elapsed_sec": 38.1}
+{"field_id": 1407, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.2639, "elapsed_sec": 38.1}
+{"field_id": 1407, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.3758, "elapsed_sec": 36.7}
+{"field_id": 1407, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.2953, "elapsed_sec": 38.6}
+{"field_id": 1407, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.2744, "elapsed_sec": 39.4}
+{"field_id": 1407, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.2704, "elapsed_sec": 42.7}
+{"field_id": 1407, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.3838, "elapsed_sec": 37.1}
+{"field_id": 1439, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.3148, "elapsed_sec": 41.0}
+{"field_id": 1439, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.2962, "elapsed_sec": 39.9}
+{"field_id": 1439, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.2843, "elapsed_sec": 38.2}
+{"field_id": 1439, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.379, "elapsed_sec": 39.7}
+{"field_id": 1439, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.3114, "elapsed_sec": 42.2}
+{"field_id": 1439, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.2916, "elapsed_sec": 38.1}
+{"field_id": 1439, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.2832, "elapsed_sec": 37.9}
+{"field_id": 1439, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.3802, "elapsed_sec": 39.2}
+{"field_id": 1439, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.3016, "elapsed_sec": 39.7}
+{"field_id": 1439, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.2837, "elapsed_sec": 39.8}
+{"field_id": 1439, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.2758, "elapsed_sec": 39.5}
+{"field_id": 1439, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.3696, "elapsed_sec": 41.0}
+{"field_id": 274, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.7921, "elapsed_sec": 36.5}
+{"field_id": 274, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.773, "elapsed_sec": 38.3}
+{"field_id": 274, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.7698, "elapsed_sec": 37.1}
+{"field_id": 274, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.8967, "elapsed_sec": 39.4}
+{"field_id": 274, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.7981, "elapsed_sec": 30.3}
+{"field_id": 274, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.779, "elapsed_sec": 34.0}
+{"field_id": 274, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.7755, "elapsed_sec": 39.9}
+{"field_id": 274, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.9047, "elapsed_sec": 48.0}
+{"field_id": 274, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 1.8047, "elapsed_sec": 41.2}
+{"field_id": 274, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 1.7852, "elapsed_sec": 41.3}
+{"field_id": 274, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 1.7803, "elapsed_sec": 38.2}
+{"field_id": 274, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 1.908, "elapsed_sec": 37.9}
+{"field_id": 1006, "replicate": 0, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.5019, "elapsed_sec": 39.7}
+{"field_id": 1006, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.4761, "elapsed_sec": 41.2}
+{"field_id": 1006, "replicate": 0, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.4622, "elapsed_sec": 42.5}
+{"field_id": 1006, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.6008, "elapsed_sec": 39.8}
+{"field_id": 1006, "replicate": 1, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.4993, "elapsed_sec": 39.3}
+{"field_id": 1006, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.4761, "elapsed_sec": 39.6}
+{"field_id": 1006, "replicate": 1, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.463, "elapsed_sec": 39.7}
+{"field_id": 1006, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.6027, "elapsed_sec": 40.9}
+{"field_id": 1006, "replicate": 2, "axis": "blur", "level": 1, "bits_per_interior_dim": 2.501, "elapsed_sec": 42.1}
+{"field_id": 1006, "replicate": 2, "axis": "blur", "level": 2, "bits_per_interior_dim": 2.4762, "elapsed_sec": 42.1}
+{"field_id": 1006, "replicate": 2, "axis": "blur", "level": 4, "bits_per_interior_dim": 2.4651, "elapsed_sec": 41.1}
+{"field_id": 1006, "replicate": 2, "axis": "blur", "level": 8, "bits_per_interior_dim": 2.6064, "elapsed_sec": 41.1}
+{"field_id": 21, "replicate": 0, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.6587}
+{"field_id": 21, "replicate": 0, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.7081}
+{"field_id": 21, "replicate": 1, "axis": "blur", "level": 2, "bits_per_interior_dim": 0.6656}
+{"field_id": 21, "replicate": 1, "axis": "blur", "level": 8, "bits_per_interior_dim": 0.711}

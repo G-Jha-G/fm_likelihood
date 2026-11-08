@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "fm_likelihood: exact conditional likelihood for flow-matching precipitation downscaling"
+type: software
+authors:
+  - family-names: "Jha"
+    given-names: "Shailesh Kumar"
+    affiliation: "Indian Institute of Technology Mandi"
+  - family-names: "Gupta"
+    given-names: "Vivek"
+    affiliation: "Indian Institute of Technology Mandi"
+    email: "vivekgupta@iitmandi.ac.in"
+license: MIT

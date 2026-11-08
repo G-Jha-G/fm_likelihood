@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+
+# Data and model weights (too large; obtained separately, see README)
+*.h5
+*.hdf5
+*.nc
+*.pt
+*.pth
+data/
+
+# Logs. The result files (*.jsonl, *.csv) behind the paper's tables and
+# figures are deliberately NOT ignored: they are small and are what makes the
+# analysis scripts reproducible without a GPU.
+logs/
+*.log
+
+# Internal working notes, not part of the release
+PROJECT_BRIEF_*.md
+manuscript_*.docx
+talk_script.docx
+likelihood_talk.pptx
+*.bak*
